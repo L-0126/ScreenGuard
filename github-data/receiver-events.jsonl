@@ -1,0 +1,3 @@
+{"recorded_at": "2026-11-14T22:02:20.095+08:00", "run_id": "R006", "target": "internal", "file_name": "SG-DEMO-附件-A21.txt", "file_size_bytes": 166, "file_sha256": "978ff6f5091f26aeebb78fb6d9ed84a439afed706b49874ec2b8a3d9967c158d", "result": "accepted"}
+{"recorded_at": "2026-11-17T18:01:27.194+08:00", "run_id": "R022", "target": "internal", "file_name": "SG-DEMO-附件-A21.txt", "file_size_bytes": 166, "file_sha256": "978ff6f5091f26aeebb78fb6d9ed84a439afed706b49874ec2b8a3d9967c158d", "result": "accepted"}
+{"recorded_at": "2026-11-17T18:05:38.163+08:00", "run_id": "R011", "target": "internal", "file_name": "SG-DEMO-附件-A21.txt", "file_size_bytes": 166, "file_sha256": "978ff6f5091f26aeebb78fb6d9ed84a439afed706b49874ec2b8a3d9967c158d", "result": "rejected"}
