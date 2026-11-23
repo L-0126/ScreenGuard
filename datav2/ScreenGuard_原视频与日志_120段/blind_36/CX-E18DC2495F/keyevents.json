@@ -1,0 +1,41 @@
+[
+  {
+    "timestamp": "2026-11-23T04:50:27.323",
+    "event_type": "clipboard_text",
+    "file_path": "",
+    "file_name": "",
+    "file_size": 0,
+    "file_extension": "",
+    "process_info": {
+      "pid": "225869",
+      "process_name": "mousepad",
+      "process_path": "/usr/bin/mousepad",
+      "cmdline": ""
+    },
+    "window_info": {
+      "window_handle": "",
+      "window_title": "",
+      "window_class": ""
+    },
+    "user_info": {
+      "username": "agent",
+      "hostname": "6b8f966c2c52"
+    },
+    "disk_info": {
+      "drive_letter": "",
+      "disk_type": ""
+    },
+    "app_name": "mousepad",
+    "extra": {
+      "raw_operation": "clipboard_text",
+      "category": "clipboard",
+      "source": "linux_x11_clipboard_monitor",
+      "process_association": "foreground_window_at_observation_not_verified_owner",
+      "image_capture_supported": false,
+      "end_time_source": "instant"
+    },
+    "content_preview": "item,revision,quantity\nmeadow,F4647A,11\n",
+    "content_hash": "498d71af827401fc",
+    "end_time": "2026-11-23T04:50:27.323"
+  }
+]

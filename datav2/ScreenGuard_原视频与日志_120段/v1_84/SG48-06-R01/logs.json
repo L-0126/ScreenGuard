@@ -1,0 +1,353 @@
+[
+  {
+    "timestamp": "2026-11-23T01:46:35.389",
+    "event_type": "app_switch",
+    "file_path": "",
+    "file_name": "",
+    "file_size": 0,
+    "file_extension": "",
+    "process_info": {
+      "pid": "12565",
+      "process_name": "mousepad",
+      "process_path": "/usr/bin/mousepad",
+      "cmdline": ""
+    },
+    "window_info": {
+      "window_handle": "37748739",
+      "window_title": "/workspace/scratch/6d50e743decc/phase2-lab/workspace/SG48/SG48-06-R01/SG48-DESIGNATED-06.md - Mousepad",
+      "window_class": "mousepad / Mousepad"
+    },
+    "user_info": {
+      "username": "agent",
+      "hostname": "6b8f966c2c52"
+    },
+    "disk_info": {
+      "drive_letter": "",
+      "disk_type": ""
+    },
+    "app_name": "mousepad",
+    "extra": {
+      "raw_operation": "none",
+      "category": "",
+      "source": "window_monitor",
+      "risk_level": "",
+      "relative_timestamp": 0.505
+    }
+  },
+  {
+    "timestamp": "2026-11-23T01:46:35.890",
+    "event_type": "app_switch",
+    "file_path": "",
+    "file_name": "",
+    "file_size": 0,
+    "file_extension": "",
+    "process_info": {
+      "pid": "12625",
+      "process_name": "python3",
+      "process_path": "/usr/bin/python3.13",
+      "cmdline": ""
+    },
+    "window_info": {
+      "window_handle": "44040195",
+      "window_title": "SG READY 734DB113CC3E",
+      "window_class": "marker.py / Marker.py"
+    },
+    "user_info": {
+      "username": "agent",
+      "hostname": "6b8f966c2c52"
+    },
+    "disk_info": {
+      "drive_letter": "",
+      "disk_type": ""
+    },
+    "app_name": "python3",
+    "extra": {
+      "raw_operation": "none",
+      "category": "",
+      "source": "window_monitor",
+      "risk_level": "",
+      "relative_timestamp": 1.006
+    }
+  },
+  {
+    "timestamp": "2026-11-23T01:46:37.894",
+    "event_type": "app_switch",
+    "file_path": "",
+    "file_name": "",
+    "file_size": 0,
+    "file_extension": "",
+    "process_info": {
+      "pid": "12625",
+      "process_name": "python3",
+      "process_path": "/usr/bin/python3.13",
+      "cmdline": ""
+    },
+    "window_info": {
+      "window_handle": "44040195",
+      "window_title": "SG START 734DB113CC3E",
+      "window_class": "marker.py / Marker.py"
+    },
+    "user_info": {
+      "username": "agent",
+      "hostname": "6b8f966c2c52"
+    },
+    "disk_info": {
+      "drive_letter": "",
+      "disk_type": ""
+    },
+    "app_name": "python3",
+    "extra": {
+      "raw_operation": "none",
+      "category": "",
+      "source": "window_monitor",
+      "risk_level": "",
+      "relative_timestamp": 3.01
+    }
+  },
+  {
+    "timestamp": "2026-11-23T01:46:40.399",
+    "event_type": "app_switch",
+    "file_path": "",
+    "file_name": "",
+    "file_size": 0,
+    "file_extension": "",
+    "process_info": {
+      "pid": "12565",
+      "process_name": "mousepad",
+      "process_path": "/usr/bin/mousepad",
+      "cmdline": ""
+    },
+    "window_info": {
+      "window_handle": "37748739",
+      "window_title": "/workspace/scratch/6d50e743decc/phase2-lab/workspace/SG48/SG48-06-R01/SG48-DESIGNATED-06.md - Mousepad",
+      "window_class": "mousepad / Mousepad"
+    },
+    "user_info": {
+      "username": "agent",
+      "hostname": "6b8f966c2c52"
+    },
+    "disk_info": {
+      "drive_letter": "",
+      "disk_type": ""
+    },
+    "app_name": "mousepad",
+    "extra": {
+      "raw_operation": "none",
+      "category": "",
+      "source": "window_monitor",
+      "risk_level": "",
+      "relative_timestamp": 5.515
+    }
+  },
+  {
+    "timestamp": "2026-11-23T01:46:42.197",
+    "event_type": "opened",
+    "file_path": "/workspace/scratch/6d50e743decc/phase2-lab/workspace/SG48/SG48-06-R01/SG48-DESIGNATED-06.md",
+    "file_name": "SG48-DESIGNATED-06.md",
+    "file_size": 101,
+    "file_extension": ".md",
+    "process_info": {
+      "pid": "12565",
+      "process_name": "mousepad",
+      "process_path": "/usr/bin/mousepad",
+      "cmdline": ""
+    },
+    "window_info": {
+      "window_handle": "37748739",
+      "window_title": "/workspace/scratch/6d50e743decc/phase2-lab/workspace/SG48/SG48-06-R01/SG48-DESIGNATED-06.md - Mousepad",
+      "window_class": "mousepad / Mousepad"
+    },
+    "user_info": {
+      "username": "agent",
+      "hostname": "6b8f966c2c52"
+    },
+    "disk_info": {
+      "drive_letter": "",
+      "disk_type": "Fixed"
+    },
+    "app_name": "mousepad",
+    "extra": {
+      "raw_operation": "opened",
+      "category": "",
+      "source": "watchdog_fs_monitor",
+      "process_attribution": "foreground_window_heuristic"
+    }
+  },
+  {
+    "timestamp": "2026-11-23T01:46:43.405",
+    "event_type": "app_switch",
+    "file_path": "",
+    "file_name": "",
+    "file_size": 0,
+    "file_extension": "",
+    "process_info": {
+      "pid": "12565",
+      "process_name": "mousepad",
+      "process_path": "/usr/bin/mousepad",
+      "cmdline": ""
+    },
+    "window_info": {
+      "window_handle": "37748739",
+      "window_title": "*/workspace/scratch/6d50e743decc/phase2-lab/workspace/SG48/SG48-06-R01/SG48-DESIGNATED-06.md - Mousepad",
+      "window_class": "mousepad / Mousepad"
+    },
+    "user_info": {
+      "username": "agent",
+      "hostname": "6b8f966c2c52"
+    },
+    "disk_info": {
+      "drive_letter": "",
+      "disk_type": ""
+    },
+    "app_name": "mousepad",
+    "extra": {
+      "raw_operation": "none",
+      "category": "",
+      "source": "window_monitor",
+      "risk_level": "",
+      "relative_timestamp": 8.521
+    }
+  },
+  {
+    "timestamp": "2026-11-23T01:46:46.179",
+    "event_type": "renamed",
+    "file_path": "/workspace/scratch/6d50e743decc/phase2-lab/workspace/SG48/SG48-06-R01/.goutputstream-P954Y3",
+    "file_name": ".goutputstream-P954Y3",
+    "file_size": 72,
+    "file_extension": "",
+    "process_info": {
+      "pid": "12565",
+      "process_name": "mousepad",
+      "process_path": "/usr/bin/mousepad",
+      "cmdline": ""
+    },
+    "window_info": {
+      "window_handle": "37748739",
+      "window_title": "*/workspace/scratch/6d50e743decc/phase2-lab/workspace/SG48/SG48-06-R01/SG48-DESIGNATED-06.md - Mousepad",
+      "window_class": "mousepad / Mousepad"
+    },
+    "user_info": {
+      "username": "agent",
+      "hostname": "6b8f966c2c52"
+    },
+    "disk_info": {
+      "drive_letter": "",
+      "disk_type": "Fixed"
+    },
+    "app_name": "mousepad",
+    "destination_path": "/workspace/scratch/6d50e743decc/phase2-lab/workspace/SG48/SG48-06-R01/SG48-DESIGNATED-06.md",
+    "destination_name": "SG48-DESIGNATED-06.md",
+    "destination_extension": ".md",
+    "extra": {
+      "raw_operation": "renamed",
+      "category": "",
+      "source": "watchdog_fs_monitor",
+      "process_attribution": "foreground_window_heuristic"
+    }
+  },
+  {
+    "timestamp": "2026-11-23T01:46:46.409",
+    "event_type": "app_switch",
+    "file_path": "",
+    "file_name": "",
+    "file_size": 0,
+    "file_extension": "",
+    "process_info": {
+      "pid": "12565",
+      "process_name": "mousepad",
+      "process_path": "/usr/bin/mousepad",
+      "cmdline": ""
+    },
+    "window_info": {
+      "window_handle": "37748739",
+      "window_title": "/workspace/scratch/6d50e743decc/phase2-lab/workspace/SG48/SG48-06-R01/SG48-DESIGNATED-06.md - Mousepad",
+      "window_class": "mousepad / Mousepad"
+    },
+    "user_info": {
+      "username": "agent",
+      "hostname": "6b8f966c2c52"
+    },
+    "disk_info": {
+      "drive_letter": "",
+      "disk_type": ""
+    },
+    "app_name": "mousepad",
+    "extra": {
+      "raw_operation": "none",
+      "category": "",
+      "source": "window_monitor",
+      "risk_level": "",
+      "relative_timestamp": 11.525
+    }
+  },
+  {
+    "timestamp": "2026-11-23T01:47:06.442",
+    "event_type": "app_switch",
+    "file_path": "",
+    "file_name": "",
+    "file_size": 0,
+    "file_extension": "",
+    "process_info": {
+      "pid": "12625",
+      "process_name": "python3",
+      "process_path": "/usr/bin/python3.13",
+      "cmdline": ""
+    },
+    "window_info": {
+      "window_handle": "44040195",
+      "window_title": "SG START 734DB113CC3E",
+      "window_class": "marker.py / Marker.py"
+    },
+    "user_info": {
+      "username": "agent",
+      "hostname": "6b8f966c2c52"
+    },
+    "disk_info": {
+      "drive_letter": "",
+      "disk_type": ""
+    },
+    "app_name": "python3",
+    "extra": {
+      "raw_operation": "none",
+      "category": "",
+      "source": "window_monitor",
+      "risk_level": "",
+      "relative_timestamp": 31.558
+    }
+  },
+  {
+    "timestamp": "2026-11-23T01:47:08.445",
+    "event_type": "app_switch",
+    "file_path": "",
+    "file_name": "",
+    "file_size": 0,
+    "file_extension": "",
+    "process_info": {
+      "pid": "12625",
+      "process_name": "python3",
+      "process_path": "/usr/bin/python3.13",
+      "cmdline": ""
+    },
+    "window_info": {
+      "window_handle": "44040195",
+      "window_title": "SG END 734DB113CC3E",
+      "window_class": "marker.py / Marker.py"
+    },
+    "user_info": {
+      "username": "agent",
+      "hostname": "6b8f966c2c52"
+    },
+    "disk_info": {
+      "drive_letter": "",
+      "disk_type": ""
+    },
+    "app_name": "python3",
+    "extra": {
+      "raw_operation": "none",
+      "category": "",
+      "source": "window_monitor",
+      "risk_level": "",
+      "relative_timestamp": 33.561
+    }
+  }
+]

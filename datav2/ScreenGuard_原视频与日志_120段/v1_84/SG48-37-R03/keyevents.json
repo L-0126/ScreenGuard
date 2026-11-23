@@ -1,0 +1,146 @@
+[
+  {
+    "timestamp": "2026-11-23T02:26:43.843",
+    "event_type": "opened",
+    "file_path": "/workspace/scratch/6d50e743decc/phase2-lab/workspace/SG48/SG48-37-R03/SG48-PUBLIC-37.docx",
+    "file_name": "SG48-PUBLIC-37.docx",
+    "file_size": 36668,
+    "file_extension": ".docx",
+    "process_info": {
+      "pid": "65261",
+      "process_name": "wps",
+      "process_path": "/workspace/scratch/6d50e743decc/collect48/packages/wps/opt/kingsoft/wps-office/office6/wps",
+      "cmdline": ""
+    },
+    "window_info": {
+      "window_handle": "37748751",
+      "window_title": "SG48-PUBLIC-37.docx - Writer",
+      "window_class": "wps / wps"
+    },
+    "user_info": {
+      "username": "agent",
+      "hostname": "6b8f966c2c52"
+    },
+    "disk_info": {
+      "drive_letter": "",
+      "disk_type": "Fixed"
+    },
+    "app_name": "WPS",
+    "extra": {
+      "raw_operation": "opened",
+      "category": "",
+      "source": "watchdog_fs_monitor",
+      "process_attribution": "foreground_window_heuristic",
+      "end_time_source": "next_file_event"
+    },
+    "end_time": "2026-11-23T02:26:52.959"
+  },
+  {
+    "timestamp": "2026-11-23T02:26:52.959",
+    "event_type": "opened",
+    "file_path": "/workspace/scratch/6d50e743decc/phase2-lab/workspace/SG48/SG48-37-R03/SG48-PUBLIC-37.docx",
+    "file_name": "SG48-PUBLIC-37.docx",
+    "file_size": 36668,
+    "file_extension": ".docx",
+    "process_info": {
+      "pid": "65261",
+      "process_name": "wps",
+      "process_path": "/workspace/scratch/6d50e743decc/collect48/packages/wps/opt/kingsoft/wps-office/office6/wps",
+      "cmdline": ""
+    },
+    "window_info": {
+      "window_handle": "37748751",
+      "window_title": "SG48-PUBLIC-37.docx - Writer",
+      "window_class": "wps / wps"
+    },
+    "user_info": {
+      "username": "agent",
+      "hostname": "6b8f966c2c52"
+    },
+    "disk_info": {
+      "drive_letter": "",
+      "disk_type": "Fixed"
+    },
+    "app_name": "WPS",
+    "extra": {
+      "raw_operation": "opened",
+      "category": "",
+      "source": "watchdog_fs_monitor",
+      "process_attribution": "foreground_window_heuristic",
+      "end_time_source": "next_file_event"
+    },
+    "end_time": "2026-11-23T02:27:01.510"
+  },
+  {
+    "timestamp": "2026-11-23T02:26:56.346",
+    "event_type": "modified",
+    "file_path": "/workspace/scratch/6d50e743decc/phase2-lab/workspace/SG48/SG48-37-R03/SG48-PUBLIC-37.docx",
+    "file_name": "SG48-PUBLIC-37.docx",
+    "file_size": 31692,
+    "file_extension": ".docx",
+    "process_info": {
+      "pid": "65261",
+      "process_name": "wps",
+      "process_path": "/workspace/scratch/6d50e743decc/collect48/packages/wps/opt/kingsoft/wps-office/office6/wps",
+      "cmdline": ""
+    },
+    "window_info": {
+      "window_handle": "37748751",
+      "window_title": "SG48-PUBLIC-37.docx * - Writer",
+      "window_class": "wps / wps"
+    },
+    "user_info": {
+      "username": "agent",
+      "hostname": "6b8f966c2c52"
+    },
+    "disk_info": {
+      "drive_letter": "",
+      "disk_type": "Fixed"
+    },
+    "app_name": "WPS",
+    "extra": {
+      "raw_operation": "modified",
+      "category": "",
+      "source": "watchdog_fs_monitor",
+      "process_attribution": "foreground_window_heuristic",
+      "end_time_source": "instant"
+    },
+    "end_time": "2026-11-23T02:26:56.346"
+  },
+  {
+    "timestamp": "2026-11-23T02:27:01.510",
+    "event_type": "opened",
+    "file_path": "/workspace/scratch/6d50e743decc/phase2-lab/workspace/SG48/SG48-37-R03/SG48-PUBLIC-37.docx",
+    "file_name": "SG48-PUBLIC-37.docx",
+    "file_size": 31692,
+    "file_extension": ".docx",
+    "process_info": {
+      "pid": "65261",
+      "process_name": "wps",
+      "process_path": "/workspace/scratch/6d50e743decc/collect48/packages/wps/opt/kingsoft/wps-office/office6/wps",
+      "cmdline": ""
+    },
+    "window_info": {
+      "window_handle": "37748751",
+      "window_title": "SG48-PUBLIC-37.docx - Writer",
+      "window_class": "wps / wps"
+    },
+    "user_info": {
+      "username": "agent",
+      "hostname": "6b8f966c2c52"
+    },
+    "disk_info": {
+      "drive_letter": "",
+      "disk_type": "Fixed"
+    },
+    "app_name": "WPS",
+    "extra": {
+      "raw_operation": "opened",
+      "category": "",
+      "source": "watchdog_fs_monitor",
+      "process_attribution": "foreground_window_heuristic",
+      "end_time_source": "session_stop"
+    },
+    "end_time": "2026-11-23T02:27:20.142"
+  }
+]

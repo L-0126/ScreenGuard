@@ -1,0 +1,565 @@
+[
+  {
+    "timestamp": "2026-11-23T04:39:43.959",
+    "event_type": "app_switch",
+    "file_path": "",
+    "file_name": "",
+    "file_size": 0,
+    "file_extension": "",
+    "process_info": {
+      "pid": "202944",
+      "process_name": "mousepad",
+      "process_path": "/usr/bin/mousepad",
+      "cmdline": ""
+    },
+    "window_info": {
+      "window_handle": "50331651",
+      "window_title": "/workspace/scratch/6d50e743decc/phase2-lab/workspace/P10/CX-CA9F36BB68/Memo-CX-CA9F36BB68.csv - Mousepad",
+      "window_class": "mousepad / Mousepad"
+    },
+    "user_info": {
+      "username": "agent",
+      "hostname": "6b8f966c2c52"
+    },
+    "disk_info": {
+      "drive_letter": "",
+      "disk_type": ""
+    },
+    "app_name": "mousepad",
+    "extra": {
+      "raw_operation": "none",
+      "category": "",
+      "source": "window_monitor",
+      "risk_level": "",
+      "relative_timestamp": 0.505
+    }
+  },
+  {
+    "timestamp": "2026-11-23T04:39:44.460",
+    "event_type": "app_switch",
+    "file_path": "",
+    "file_name": "",
+    "file_size": 0,
+    "file_extension": "",
+    "process_info": {
+      "pid": "203187",
+      "process_name": "python3",
+      "process_path": "/usr/bin/python3.13",
+      "cmdline": ""
+    },
+    "window_info": {
+      "window_handle": "54525955",
+      "window_title": "SG READY AE8516019CE6",
+      "window_class": "marker.py / Marker.py"
+    },
+    "user_info": {
+      "username": "agent",
+      "hostname": "6b8f966c2c52"
+    },
+    "disk_info": {
+      "drive_letter": "",
+      "disk_type": ""
+    },
+    "app_name": "python3",
+    "extra": {
+      "raw_operation": "none",
+      "category": "",
+      "source": "window_monitor",
+      "risk_level": "",
+      "relative_timestamp": 1.006
+    }
+  },
+  {
+    "timestamp": "2026-11-23T04:39:46.464",
+    "event_type": "app_switch",
+    "file_path": "",
+    "file_name": "",
+    "file_size": 0,
+    "file_extension": "",
+    "process_info": {
+      "pid": "203187",
+      "process_name": "python3",
+      "process_path": "/usr/bin/python3.13",
+      "cmdline": ""
+    },
+    "window_info": {
+      "window_handle": "54525955",
+      "window_title": "SG START AE8516019CE6",
+      "window_class": "marker.py / Marker.py"
+    },
+    "user_info": {
+      "username": "agent",
+      "hostname": "6b8f966c2c52"
+    },
+    "disk_info": {
+      "drive_letter": "",
+      "disk_type": ""
+    },
+    "app_name": "python3",
+    "extra": {
+      "raw_operation": "none",
+      "category": "",
+      "source": "window_monitor",
+      "risk_level": "",
+      "relative_timestamp": 3.01
+    }
+  },
+  {
+    "timestamp": "2026-11-23T04:39:48.969",
+    "event_type": "app_switch",
+    "file_path": "",
+    "file_name": "",
+    "file_size": 0,
+    "file_extension": "",
+    "process_info": {
+      "pid": "202942",
+      "process_name": "mousepad",
+      "process_path": "/usr/bin/mousepad",
+      "cmdline": ""
+    },
+    "window_info": {
+      "window_handle": "48234499",
+      "window_title": "/workspace/scratch/6d50e743decc/phase2-lab/workspace/P10/CX-CA9F36BB68/Draft-CX-CA9F36BB68.csv - Mousepad",
+      "window_class": "mousepad / Mousepad"
+    },
+    "user_info": {
+      "username": "agent",
+      "hostname": "6b8f966c2c52"
+    },
+    "disk_info": {
+      "drive_letter": "",
+      "disk_type": ""
+    },
+    "app_name": "mousepad",
+    "extra": {
+      "raw_operation": "none",
+      "category": "",
+      "source": "window_monitor",
+      "risk_level": "",
+      "relative_timestamp": 5.515
+    }
+  },
+  {
+    "timestamp": "2026-11-23T04:39:50.968",
+    "event_type": "clipboard_text",
+    "file_path": "",
+    "file_name": "",
+    "file_size": 0,
+    "file_extension": "",
+    "process_info": {
+      "pid": "202942",
+      "process_name": "mousepad",
+      "process_path": "/usr/bin/mousepad",
+      "cmdline": ""
+    },
+    "window_info": {
+      "window_handle": "",
+      "window_title": "",
+      "window_class": ""
+    },
+    "user_info": {
+      "username": "agent",
+      "hostname": "6b8f966c2c52"
+    },
+    "disk_info": {
+      "drive_letter": "",
+      "disk_type": ""
+    },
+    "app_name": "mousepad",
+    "extra": {
+      "raw_operation": "clipboard_text",
+      "category": "clipboard",
+      "source": "linux_x11_clipboard_monitor",
+      "process_association": "foreground_window_at_observation_not_verified_owner",
+      "image_capture_supported": false
+    },
+    "content_preview": "item,revision,quantity\nriver,34E355,15\n",
+    "content_hash": "3a6a86a13f3e08d7"
+  },
+  {
+    "timestamp": "2026-11-23T04:39:52.474",
+    "event_type": "app_switch",
+    "file_path": "",
+    "file_name": "",
+    "file_size": 0,
+    "file_extension": "",
+    "process_info": {
+      "pid": "202944",
+      "process_name": "mousepad",
+      "process_path": "/usr/bin/mousepad",
+      "cmdline": ""
+    },
+    "window_info": {
+      "window_handle": "50331651",
+      "window_title": "/workspace/scratch/6d50e743decc/phase2-lab/workspace/P10/CX-CA9F36BB68/Memo-CX-CA9F36BB68.csv - Mousepad",
+      "window_class": "mousepad / Mousepad"
+    },
+    "user_info": {
+      "username": "agent",
+      "hostname": "6b8f966c2c52"
+    },
+    "disk_info": {
+      "drive_letter": "",
+      "disk_type": ""
+    },
+    "app_name": "mousepad",
+    "extra": {
+      "raw_operation": "none",
+      "category": "",
+      "source": "window_monitor",
+      "risk_level": "",
+      "relative_timestamp": 9.02
+    }
+  },
+  {
+    "timestamp": "2026-11-23T04:39:54.480",
+    "event_type": "clipboard_text",
+    "file_path": "",
+    "file_name": "",
+    "file_size": 0,
+    "file_extension": "",
+    "process_info": {
+      "pid": "202944",
+      "process_name": "mousepad",
+      "process_path": "/usr/bin/mousepad",
+      "cmdline": ""
+    },
+    "window_info": {
+      "window_handle": "",
+      "window_title": "",
+      "window_class": ""
+    },
+    "user_info": {
+      "username": "agent",
+      "hostname": "6b8f966c2c52"
+    },
+    "disk_info": {
+      "drive_letter": "",
+      "disk_type": ""
+    },
+    "app_name": "mousepad",
+    "extra": {
+      "raw_operation": "clipboard_text",
+      "category": "clipboard",
+      "source": "linux_x11_clipboard_monitor",
+      "process_association": "foreground_window_at_observation_not_verified_owner",
+      "image_capture_supported": false
+    },
+    "content_preview": "item,revision,quantity\nnorth,F2F09B,25\n",
+    "content_hash": "b562f08af30715c0"
+  },
+  {
+    "timestamp": "2026-11-23T04:39:55.987",
+    "event_type": "app_switch",
+    "file_path": "",
+    "file_name": "",
+    "file_size": 0,
+    "file_extension": "",
+    "process_info": {
+      "pid": "202943",
+      "process_name": "mousepad",
+      "process_path": "/usr/bin/mousepad",
+      "cmdline": ""
+    },
+    "window_info": {
+      "window_handle": "44040195",
+      "window_title": "/workspace/scratch/6d50e743decc/phase2-lab/workspace/P10/CX-CA9F36BB68/Note-CX-CA9F36BB68.csv - Mousepad",
+      "window_class": "mousepad / Mousepad"
+    },
+    "user_info": {
+      "username": "agent",
+      "hostname": "6b8f966c2c52"
+    },
+    "disk_info": {
+      "drive_letter": "",
+      "disk_type": ""
+    },
+    "app_name": "mousepad",
+    "extra": {
+      "raw_operation": "none",
+      "category": "",
+      "source": "window_monitor",
+      "risk_level": "",
+      "relative_timestamp": 12.533
+    }
+  },
+  {
+    "timestamp": "2026-11-23T04:39:57.495",
+    "event_type": "app_switch",
+    "file_path": "",
+    "file_name": "",
+    "file_size": 0,
+    "file_extension": "",
+    "process_info": {
+      "pid": "202943",
+      "process_name": "mousepad",
+      "process_path": "/usr/bin/mousepad",
+      "cmdline": ""
+    },
+    "window_info": {
+      "window_handle": "44040195",
+      "window_title": "*/workspace/scratch/6d50e743decc/phase2-lab/workspace/P10/CX-CA9F36BB68/Note-CX-CA9F36BB68.csv - Mousepad",
+      "window_class": "mousepad / Mousepad"
+    },
+    "user_info": {
+      "username": "agent",
+      "hostname": "6b8f966c2c52"
+    },
+    "disk_info": {
+      "drive_letter": "",
+      "disk_type": ""
+    },
+    "app_name": "mousepad",
+    "extra": {
+      "raw_operation": "none",
+      "category": "",
+      "source": "window_monitor",
+      "risk_level": "",
+      "relative_timestamp": 14.041
+    }
+  },
+  {
+    "timestamp": "2026-11-23T04:39:58.837",
+    "event_type": "opened",
+    "file_path": "/workspace/scratch/6d50e743decc/phase2-lab/workspace/P10/CX-CA9F36BB68/Note-CX-CA9F36BB68.csv",
+    "file_name": "Note-CX-CA9F36BB68.csv",
+    "file_size": 0,
+    "file_extension": ".csv",
+    "process_info": {
+      "pid": "202943",
+      "process_name": "mousepad",
+      "process_path": "/usr/bin/mousepad",
+      "cmdline": ""
+    },
+    "window_info": {
+      "window_handle": "44040195",
+      "window_title": "*/workspace/scratch/6d50e743decc/phase2-lab/workspace/P10/CX-CA9F36BB68/Note-CX-CA9F36BB68.csv - Mousepad",
+      "window_class": "mousepad / Mousepad"
+    },
+    "user_info": {
+      "username": "agent",
+      "hostname": "6b8f966c2c52"
+    },
+    "disk_info": {
+      "drive_letter": "",
+      "disk_type": "Fixed"
+    },
+    "app_name": "mousepad",
+    "extra": {
+      "raw_operation": "opened",
+      "category": "",
+      "source": "watchdog_fs_monitor",
+      "process_attribution": "foreground_window_heuristic"
+    }
+  },
+  {
+    "timestamp": "2026-11-23T04:39:58.854",
+    "event_type": "renamed",
+    "file_path": "/workspace/scratch/6d50e743decc/phase2-lab/workspace/P10/CX-CA9F36BB68/.goutputstream-WWZOZ3",
+    "file_name": ".goutputstream-WWZOZ3",
+    "file_size": 39,
+    "file_extension": "",
+    "process_info": {
+      "pid": "202943",
+      "process_name": "mousepad",
+      "process_path": "/usr/bin/mousepad",
+      "cmdline": ""
+    },
+    "window_info": {
+      "window_handle": "44040195",
+      "window_title": "/workspace/scratch/6d50e743decc/phase2-lab/workspace/P10/CX-CA9F36BB68/Note-CX-CA9F36BB68.csv - Mousepad",
+      "window_class": "mousepad / Mousepad"
+    },
+    "user_info": {
+      "username": "agent",
+      "hostname": "6b8f966c2c52"
+    },
+    "disk_info": {
+      "drive_letter": "",
+      "disk_type": "Fixed"
+    },
+    "app_name": "mousepad",
+    "destination_path": "/workspace/scratch/6d50e743decc/phase2-lab/workspace/P10/CX-CA9F36BB68/Note-CX-CA9F36BB68.csv",
+    "destination_name": "Note-CX-CA9F36BB68.csv",
+    "destination_extension": ".csv",
+    "extra": {
+      "raw_operation": "renamed",
+      "category": "",
+      "source": "watchdog_fs_monitor",
+      "process_attribution": "foreground_window_heuristic"
+    }
+  },
+  {
+    "timestamp": "2026-11-23T04:39:58.999",
+    "event_type": "app_switch",
+    "file_path": "",
+    "file_name": "",
+    "file_size": 0,
+    "file_extension": "",
+    "process_info": {
+      "pid": "202943",
+      "process_name": "mousepad",
+      "process_path": "/usr/bin/mousepad",
+      "cmdline": ""
+    },
+    "window_info": {
+      "window_handle": "44040195",
+      "window_title": "/workspace/scratch/6d50e743decc/phase2-lab/workspace/P10/CX-CA9F36BB68/Note-CX-CA9F36BB68.csv - Mousepad",
+      "window_class": "mousepad / Mousepad"
+    },
+    "user_info": {
+      "username": "agent",
+      "hostname": "6b8f966c2c52"
+    },
+    "disk_info": {
+      "drive_letter": "",
+      "disk_type": ""
+    },
+    "app_name": "mousepad",
+    "extra": {
+      "raw_operation": "none",
+      "category": "",
+      "source": "window_monitor",
+      "risk_level": "",
+      "relative_timestamp": 15.545
+    }
+  },
+  {
+    "timestamp": "2026-11-23T04:39:59.855",
+    "event_type": "opened",
+    "file_path": "/workspace/scratch/6d50e743decc/phase2-lab/workspace/P10/CX-CA9F36BB68/Draft-CX-CA9F36BB68.csv",
+    "file_name": "Draft-CX-CA9F36BB68.csv",
+    "file_size": 39,
+    "file_extension": ".csv",
+    "process_info": {
+      "pid": "202943",
+      "process_name": "mousepad",
+      "process_path": "/usr/bin/mousepad",
+      "cmdline": ""
+    },
+    "window_info": {
+      "window_handle": "44040195",
+      "window_title": "/workspace/scratch/6d50e743decc/phase2-lab/workspace/P10/CX-CA9F36BB68/Note-CX-CA9F36BB68.csv - Mousepad",
+      "window_class": "mousepad / Mousepad"
+    },
+    "user_info": {
+      "username": "agent",
+      "hostname": "6b8f966c2c52"
+    },
+    "disk_info": {
+      "drive_letter": "",
+      "disk_type": "Fixed"
+    },
+    "app_name": "mousepad",
+    "extra": {
+      "raw_operation": "opened",
+      "category": "",
+      "source": "watchdog_fs_monitor",
+      "process_attribution": "foreground_window_heuristic"
+    }
+  },
+  {
+    "timestamp": "2026-11-23T04:39:59.874",
+    "event_type": "opened",
+    "file_path": "/workspace/scratch/6d50e743decc/phase2-lab/workspace/P10/CX-CA9F36BB68/Memo-CX-CA9F36BB68.csv",
+    "file_name": "Memo-CX-CA9F36BB68.csv",
+    "file_size": 39,
+    "file_extension": ".csv",
+    "process_info": {
+      "pid": "202943",
+      "process_name": "mousepad",
+      "process_path": "/usr/bin/mousepad",
+      "cmdline": ""
+    },
+    "window_info": {
+      "window_handle": "44040195",
+      "window_title": "/workspace/scratch/6d50e743decc/phase2-lab/workspace/P10/CX-CA9F36BB68/Note-CX-CA9F36BB68.csv - Mousepad",
+      "window_class": "mousepad / Mousepad"
+    },
+    "user_info": {
+      "username": "agent",
+      "hostname": "6b8f966c2c52"
+    },
+    "disk_info": {
+      "drive_letter": "",
+      "disk_type": "Fixed"
+    },
+    "app_name": "mousepad",
+    "extra": {
+      "raw_operation": "opened",
+      "category": "",
+      "source": "watchdog_fs_monitor",
+      "process_attribution": "foreground_window_heuristic"
+    }
+  },
+  {
+    "timestamp": "2026-11-23T04:40:14.570",
+    "event_type": "app_switch",
+    "file_path": "",
+    "file_name": "",
+    "file_size": 0,
+    "file_extension": "",
+    "process_info": {
+      "pid": "203187",
+      "process_name": "python3",
+      "process_path": "/usr/bin/python3.13",
+      "cmdline": ""
+    },
+    "window_info": {
+      "window_handle": "54525955",
+      "window_title": "SG START AE8516019CE6",
+      "window_class": "marker.py / Marker.py"
+    },
+    "user_info": {
+      "username": "agent",
+      "hostname": "6b8f966c2c52"
+    },
+    "disk_info": {
+      "drive_letter": "",
+      "disk_type": ""
+    },
+    "app_name": "python3",
+    "extra": {
+      "raw_operation": "none",
+      "category": "",
+      "source": "window_monitor",
+      "risk_level": "",
+      "relative_timestamp": 31.116
+    }
+  },
+  {
+    "timestamp": "2026-11-23T04:40:16.073",
+    "event_type": "app_switch",
+    "file_path": "",
+    "file_name": "",
+    "file_size": 0,
+    "file_extension": "",
+    "process_info": {
+      "pid": "203187",
+      "process_name": "python3",
+      "process_path": "/usr/bin/python3.13",
+      "cmdline": ""
+    },
+    "window_info": {
+      "window_handle": "54525955",
+      "window_title": "SG END AE8516019CE6",
+      "window_class": "marker.py / Marker.py"
+    },
+    "user_info": {
+      "username": "agent",
+      "hostname": "6b8f966c2c52"
+    },
+    "disk_info": {
+      "drive_letter": "",
+      "disk_type": ""
+    },
+    "app_name": "python3",
+    "extra": {
+      "raw_operation": "none",
+      "category": "",
+      "source": "window_monitor",
+      "risk_level": "",
+      "relative_timestamp": 32.619
+    }
+  }
+]

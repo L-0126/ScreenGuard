@@ -1,0 +1,187 @@
+[
+  {
+    "timestamp": "2026-11-23T02:14:07.957",
+    "event_type": "app_switch",
+    "file_path": "",
+    "file_name": "",
+    "file_size": 0,
+    "file_extension": "",
+    "process_info": {
+      "pid": "49982",
+      "process_name": "chromium",
+      "process_path": "/usr/lib/chromium/chromium",
+      "cmdline": ""
+    },
+    "window_info": {
+      "window_handle": "39845890",
+      "window_title": "Attachment review · SG48-27-R01",
+      "window_class": "127.0.0.1__case_SG48-27-R01 / Chromium"
+    },
+    "user_info": {
+      "username": "agent",
+      "hostname": "6b8f966c2c52"
+    },
+    "disk_info": {
+      "drive_letter": "",
+      "disk_type": ""
+    },
+    "app_name": "Chrome",
+    "extra": {
+      "raw_operation": "app",
+      "category": "浏览器",
+      "source": "window_monitor",
+      "risk_level": "高",
+      "relative_timestamp": 0.505,
+      "end_time_source": "next_window_event"
+    },
+    "end_time": "2026-11-23T02:14:12.971"
+  },
+  {
+    "timestamp": "2026-11-23T02:14:12.971",
+    "event_type": "app_switch",
+    "file_path": "",
+    "file_name": "",
+    "file_size": 0,
+    "file_extension": "",
+    "process_info": {
+      "pid": "49982",
+      "process_name": "chromium",
+      "process_path": "/usr/lib/chromium/chromium",
+      "cmdline": ""
+    },
+    "window_info": {
+      "window_handle": "39845890",
+      "window_title": "Attachment review · SG48-27-R01",
+      "window_class": "127.0.0.1__case_SG48-27-R01 / Chromium"
+    },
+    "user_info": {
+      "username": "agent",
+      "hostname": "6b8f966c2c52"
+    },
+    "disk_info": {
+      "drive_letter": "",
+      "disk_type": ""
+    },
+    "app_name": "Chrome",
+    "extra": {
+      "raw_operation": "app",
+      "category": "浏览器",
+      "source": "window_monitor",
+      "risk_level": "高",
+      "relative_timestamp": 5.52,
+      "end_time_source": "next_window_event"
+    },
+    "end_time": "2026-11-23T02:14:14.473"
+  },
+  {
+    "timestamp": "2026-11-23T02:14:14.473",
+    "event_type": "app_switch",
+    "file_path": "",
+    "file_name": "",
+    "file_size": 0,
+    "file_extension": "",
+    "process_info": {
+      "pid": "49982",
+      "process_name": "chromium",
+      "process_path": "/usr/lib/chromium/chromium",
+      "cmdline": ""
+    },
+    "window_info": {
+      "window_handle": "39845890",
+      "window_title": "Attachment review · SG48-27-R01",
+      "window_class": "127.0.0.1__case_SG48-27-R01 / Chromium"
+    },
+    "user_info": {
+      "username": "agent",
+      "hostname": "6b8f966c2c52"
+    },
+    "disk_info": {
+      "drive_letter": "",
+      "disk_type": ""
+    },
+    "app_name": "Chrome",
+    "extra": {
+      "raw_operation": "app",
+      "category": "浏览器",
+      "source": "window_monitor",
+      "risk_level": "高",
+      "relative_timestamp": 7.022,
+      "end_time_source": "next_window_event"
+    },
+    "end_time": "2026-11-23T02:14:19.540"
+  },
+  {
+    "timestamp": "2026-11-23T02:14:19.540",
+    "event_type": "app_switch",
+    "file_path": "",
+    "file_name": "",
+    "file_size": 0,
+    "file_extension": "",
+    "process_info": {
+      "pid": "49982",
+      "process_name": "chromium",
+      "process_path": "/usr/lib/chromium/chromium",
+      "cmdline": ""
+    },
+    "window_info": {
+      "window_handle": "39845890",
+      "window_title": "Staged design-review.csv · SG48-27-R01",
+      "window_class": "127.0.0.1__case_SG48-27-R01 / Chromium"
+    },
+    "user_info": {
+      "username": "agent",
+      "hostname": "6b8f966c2c52"
+    },
+    "disk_info": {
+      "drive_letter": "",
+      "disk_type": ""
+    },
+    "app_name": "Chrome",
+    "extra": {
+      "raw_operation": "app",
+      "category": "浏览器",
+      "source": "window_monitor",
+      "risk_level": "高",
+      "relative_timestamp": 12.088,
+      "end_time_source": "next_window_event"
+    },
+    "end_time": "2026-11-23T02:14:23.045"
+  },
+  {
+    "timestamp": "2026-11-23T02:14:23.045",
+    "event_type": "app_switch",
+    "file_path": "",
+    "file_name": "",
+    "file_size": 0,
+    "file_extension": "",
+    "process_info": {
+      "pid": "49982",
+      "process_name": "chromium",
+      "process_path": "/usr/lib/chromium/chromium",
+      "cmdline": ""
+    },
+    "window_info": {
+      "window_handle": "39845890",
+      "window_title": "Attachment removed · SG48-27-R01",
+      "window_class": "127.0.0.1__case_SG48-27-R01 / Chromium"
+    },
+    "user_info": {
+      "username": "agent",
+      "hostname": "6b8f966c2c52"
+    },
+    "disk_info": {
+      "drive_letter": "",
+      "disk_type": ""
+    },
+    "app_name": "Chrome",
+    "extra": {
+      "raw_operation": "app",
+      "category": "浏览器",
+      "source": "window_monitor",
+      "risk_level": "高",
+      "relative_timestamp": 15.593,
+      "end_time_source": "session_stop"
+    },
+    "end_time": "2026-11-23T02:14:43.345"
+  }
+]

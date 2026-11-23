@@ -1,0 +1,350 @@
+[
+  {
+    "timestamp": "2026-11-23T02:33:21.242",
+    "event_type": "app_switch",
+    "file_path": "",
+    "file_name": "",
+    "file_size": 0,
+    "file_extension": "",
+    "process_info": {
+      "pid": "75409",
+      "process_name": "wps",
+      "process_path": "/workspace/scratch/6d50e743decc/collect48/packages/wps/opt/kingsoft/wps-office/office6/wps",
+      "cmdline": ""
+    },
+    "window_info": {
+      "window_handle": "37748751",
+      "window_title": "SG48-DESIGNATED-41.docx - Writer",
+      "window_class": "wps / wps"
+    },
+    "user_info": {
+      "username": "agent",
+      "hostname": "6b8f966c2c52"
+    },
+    "disk_info": {
+      "drive_letter": "",
+      "disk_type": ""
+    },
+    "app_name": "wps",
+    "extra": {
+      "raw_operation": "none",
+      "category": "",
+      "source": "window_monitor",
+      "risk_level": "",
+      "relative_timestamp": 0.505
+    }
+  },
+  {
+    "timestamp": "2026-11-23T02:33:21.743",
+    "event_type": "app_switch",
+    "file_path": "",
+    "file_name": "",
+    "file_size": 0,
+    "file_extension": "",
+    "process_info": {
+      "pid": "75499",
+      "process_name": "python3",
+      "process_path": "/usr/bin/python3.13",
+      "cmdline": ""
+    },
+    "window_info": {
+      "window_handle": "52428803",
+      "window_title": "SG READY EAA2021B15EF",
+      "window_class": "marker.py / Marker.py"
+    },
+    "user_info": {
+      "username": "agent",
+      "hostname": "6b8f966c2c52"
+    },
+    "disk_info": {
+      "drive_letter": "",
+      "disk_type": ""
+    },
+    "app_name": "python3",
+    "extra": {
+      "raw_operation": "none",
+      "category": "",
+      "source": "window_monitor",
+      "risk_level": "",
+      "relative_timestamp": 1.006
+    }
+  },
+  {
+    "timestamp": "2026-11-23T02:33:23.748",
+    "event_type": "app_switch",
+    "file_path": "",
+    "file_name": "",
+    "file_size": 0,
+    "file_extension": "",
+    "process_info": {
+      "pid": "75499",
+      "process_name": "python3",
+      "process_path": "/usr/bin/python3.13",
+      "cmdline": ""
+    },
+    "window_info": {
+      "window_handle": "52428803",
+      "window_title": "SG START EAA2021B15EF",
+      "window_class": "marker.py / Marker.py"
+    },
+    "user_info": {
+      "username": "agent",
+      "hostname": "6b8f966c2c52"
+    },
+    "disk_info": {
+      "drive_letter": "",
+      "disk_type": ""
+    },
+    "app_name": "python3",
+    "extra": {
+      "raw_operation": "none",
+      "category": "",
+      "source": "window_monitor",
+      "risk_level": "",
+      "relative_timestamp": 3.011
+    }
+  },
+  {
+    "timestamp": "2026-11-23T02:33:26.756",
+    "event_type": "app_switch",
+    "file_path": "",
+    "file_name": "",
+    "file_size": 0,
+    "file_extension": "",
+    "process_info": {
+      "pid": "75409",
+      "process_name": "wps",
+      "process_path": "/workspace/scratch/6d50e743decc/collect48/packages/wps/opt/kingsoft/wps-office/office6/wps",
+      "cmdline": ""
+    },
+    "window_info": {
+      "window_handle": "37748751",
+      "window_title": "SG48-DESIGNATED-41.docx - Writer",
+      "window_class": "wps / wps"
+    },
+    "user_info": {
+      "username": "agent",
+      "hostname": "6b8f966c2c52"
+    },
+    "disk_info": {
+      "drive_letter": "",
+      "disk_type": ""
+    },
+    "app_name": "wps",
+    "extra": {
+      "raw_operation": "none",
+      "category": "",
+      "source": "window_monitor",
+      "risk_level": "",
+      "relative_timestamp": 6.019
+    }
+  },
+  {
+    "timestamp": "2026-11-23T02:33:28.276",
+    "event_type": "opened",
+    "file_path": "/workspace/scratch/6d50e743decc/phase2-lab/workspace/SG48/SG48-41-R01/SG48-DESIGNATED-41.docx",
+    "file_name": "SG48-DESIGNATED-41.docx",
+    "file_size": 36681,
+    "file_extension": ".docx",
+    "process_info": {
+      "pid": "75409",
+      "process_name": "wps",
+      "process_path": "/workspace/scratch/6d50e743decc/collect48/packages/wps/opt/kingsoft/wps-office/office6/wps",
+      "cmdline": ""
+    },
+    "window_info": {
+      "window_handle": "37748751",
+      "window_title": "SG48-DESIGNATED-41.docx - Writer",
+      "window_class": "wps / wps"
+    },
+    "user_info": {
+      "username": "agent",
+      "hostname": "6b8f966c2c52"
+    },
+    "disk_info": {
+      "drive_letter": "",
+      "disk_type": "Fixed"
+    },
+    "app_name": "WPS",
+    "extra": {
+      "raw_operation": "opened",
+      "category": "",
+      "source": "watchdog_fs_monitor",
+      "process_attribution": "foreground_window_heuristic"
+    }
+  },
+  {
+    "timestamp": "2026-11-23T02:33:31.268",
+    "event_type": "app_switch",
+    "file_path": "",
+    "file_name": "",
+    "file_size": 0,
+    "file_extension": "",
+    "process_info": {
+      "pid": "75409",
+      "process_name": "wps",
+      "process_path": "/workspace/scratch/6d50e743decc/collect48/packages/wps/opt/kingsoft/wps-office/office6/wps",
+      "cmdline": ""
+    },
+    "window_info": {
+      "window_handle": "37748751",
+      "window_title": "SG48-DESIGNATED-41.docx * - Writer",
+      "window_class": "wps / wps"
+    },
+    "user_info": {
+      "username": "agent",
+      "hostname": "6b8f966c2c52"
+    },
+    "disk_info": {
+      "drive_letter": "",
+      "disk_type": ""
+    },
+    "app_name": "wps",
+    "extra": {
+      "raw_operation": "none",
+      "category": "",
+      "source": "window_monitor",
+      "risk_level": "",
+      "relative_timestamp": 10.531
+    }
+  },
+  {
+    "timestamp": "2026-11-23T02:33:31.770",
+    "event_type": "app_switch",
+    "file_path": "",
+    "file_name": "",
+    "file_size": 0,
+    "file_extension": "",
+    "process_info": {
+      "pid": "75409",
+      "process_name": "wps",
+      "process_path": "/workspace/scratch/6d50e743decc/collect48/packages/wps/opt/kingsoft/wps-office/office6/wps",
+      "cmdline": ""
+    },
+    "window_info": {
+      "window_handle": "37748751",
+      "window_title": "SG48-DESIGNATED-41.docx - Writer",
+      "window_class": "wps / wps"
+    },
+    "user_info": {
+      "username": "agent",
+      "hostname": "6b8f966c2c52"
+    },
+    "disk_info": {
+      "drive_letter": "",
+      "disk_type": ""
+    },
+    "app_name": "wps",
+    "extra": {
+      "raw_operation": "none",
+      "category": "",
+      "source": "window_monitor",
+      "risk_level": "",
+      "relative_timestamp": 11.033
+    }
+  },
+  {
+    "timestamp": "2026-11-23T02:33:31.638",
+    "event_type": "modified",
+    "file_path": "/workspace/scratch/6d50e743decc/phase2-lab/workspace/SG48/SG48-41-R01/SG48-DESIGNATED-41.docx",
+    "file_name": "SG48-DESIGNATED-41.docx",
+    "file_size": 31605,
+    "file_extension": ".docx",
+    "process_info": {
+      "pid": "75409",
+      "process_name": "wps",
+      "process_path": "/workspace/scratch/6d50e743decc/collect48/packages/wps/opt/kingsoft/wps-office/office6/wps",
+      "cmdline": ""
+    },
+    "window_info": {
+      "window_handle": "37748751",
+      "window_title": "SG48-DESIGNATED-41.docx * - Writer",
+      "window_class": "wps / wps"
+    },
+    "user_info": {
+      "username": "agent",
+      "hostname": "6b8f966c2c52"
+    },
+    "disk_info": {
+      "drive_letter": "",
+      "disk_type": "Fixed"
+    },
+    "app_name": "WPS",
+    "extra": {
+      "raw_operation": "modified",
+      "category": "",
+      "source": "watchdog_fs_monitor",
+      "process_attribution": "foreground_window_heuristic"
+    }
+  },
+  {
+    "timestamp": "2026-11-23T02:33:52.814",
+    "event_type": "app_switch",
+    "file_path": "",
+    "file_name": "",
+    "file_size": 0,
+    "file_extension": "",
+    "process_info": {
+      "pid": "75499",
+      "process_name": "python3",
+      "process_path": "/usr/bin/python3.13",
+      "cmdline": ""
+    },
+    "window_info": {
+      "window_handle": "52428803",
+      "window_title": "SG START EAA2021B15EF",
+      "window_class": "marker.py / Marker.py"
+    },
+    "user_info": {
+      "username": "agent",
+      "hostname": "6b8f966c2c52"
+    },
+    "disk_info": {
+      "drive_letter": "",
+      "disk_type": ""
+    },
+    "app_name": "python3",
+    "extra": {
+      "raw_operation": "none",
+      "category": "",
+      "source": "window_monitor",
+      "risk_level": "",
+      "relative_timestamp": 32.077
+    }
+  },
+  {
+    "timestamp": "2026-11-23T02:33:54.817",
+    "event_type": "app_switch",
+    "file_path": "",
+    "file_name": "",
+    "file_size": 0,
+    "file_extension": "",
+    "process_info": {
+      "pid": "75499",
+      "process_name": "python3",
+      "process_path": "/usr/bin/python3.13",
+      "cmdline": ""
+    },
+    "window_info": {
+      "window_handle": "52428803",
+      "window_title": "SG END EAA2021B15EF",
+      "window_class": "marker.py / Marker.py"
+    },
+    "user_info": {
+      "username": "agent",
+      "hostname": "6b8f966c2c52"
+    },
+    "disk_info": {
+      "drive_letter": "",
+      "disk_type": ""
+    },
+    "app_name": "python3",
+    "extra": {
+      "raw_operation": "none",
+      "category": "",
+      "source": "window_monitor",
+      "risk_level": "",
+      "relative_timestamp": 34.08
+    }
+  }
+]

@@ -1,0 +1,189 @@
+[
+  {
+    "timestamp": "2026-11-23T03:22:59.400",
+    "event_type": "app_switch",
+    "file_path": "",
+    "file_name": "",
+    "file_size": 0,
+    "file_extension": "",
+    "process_info": {
+      "pid": "168851",
+      "process_name": "chromium",
+      "process_path": "/usr/lib/chromium/chromium",
+      "cmdline": ""
+    },
+    "window_info": {
+      "window_handle": "50331650",
+      "window_title": "Attachment review · S6-C7A87324",
+      "window_class": "127.0.0.1__case_S6-C7A87324 / Chromium"
+    },
+    "user_info": {
+      "username": "agent",
+      "hostname": "6b8f966c2c52"
+    },
+    "disk_info": {
+      "drive_letter": "",
+      "disk_type": ""
+    },
+    "app_name": "Chrome",
+    "extra": {
+      "raw_operation": "app",
+      "category": "浏览器",
+      "source": "window_monitor",
+      "risk_level": "高",
+      "relative_timestamp": 0.507,
+      "end_time_source": "next_window_event"
+    },
+    "end_time": "2026-11-23T03:23:10.431"
+  },
+  {
+    "timestamp": "2026-11-23T03:23:05.913",
+    "event_type": "clipboard_text",
+    "file_path": "",
+    "file_name": "",
+    "file_size": 0,
+    "file_extension": "",
+    "process_info": {
+      "pid": "168840",
+      "process_name": "mousepad",
+      "process_path": "/usr/bin/mousepad",
+      "cmdline": ""
+    },
+    "window_info": {
+      "window_handle": "",
+      "window_title": "",
+      "window_class": ""
+    },
+    "user_info": {
+      "username": "agent",
+      "hostname": "6b8f966c2c52"
+    },
+    "disk_info": {
+      "drive_letter": "",
+      "disk_type": ""
+    },
+    "app_name": "mousepad",
+    "extra": {
+      "raw_operation": "clipboard_text",
+      "category": "clipboard",
+      "source": "linux_x11_clipboard_monitor",
+      "process_association": "foreground_window_at_observation_not_verified_owner",
+      "image_capture_supported": false,
+      "end_time_source": "instant"
+    },
+    "content_preview": "item,revision,quantity\nsound,18DF3D,16\n",
+    "content_hash": "aa4e36b1e38590ce",
+    "end_time": "2026-11-23T03:23:05.913"
+  },
+  {
+    "timestamp": "2026-11-23T03:23:10.431",
+    "event_type": "app_switch",
+    "file_path": "",
+    "file_name": "",
+    "file_size": 0,
+    "file_extension": "",
+    "process_info": {
+      "pid": "168851",
+      "process_name": "chromium",
+      "process_path": "/usr/lib/chromium/chromium",
+      "cmdline": ""
+    },
+    "window_info": {
+      "window_handle": "50331650",
+      "window_title": "Attachment review · S6-C7A87324",
+      "window_class": "127.0.0.1__case_S6-C7A87324 / Chromium"
+    },
+    "user_info": {
+      "username": "agent",
+      "hostname": "6b8f966c2c52"
+    },
+    "disk_info": {
+      "drive_letter": "",
+      "disk_type": ""
+    },
+    "app_name": "Chrome",
+    "extra": {
+      "raw_operation": "app",
+      "category": "浏览器",
+      "source": "window_monitor",
+      "risk_level": "高",
+      "relative_timestamp": 11.537,
+      "end_time_source": "next_window_event"
+    },
+    "end_time": "2026-11-23T03:23:12.436"
+  },
+  {
+    "timestamp": "2026-11-23T03:23:12.436",
+    "event_type": "app_switch",
+    "file_path": "",
+    "file_name": "",
+    "file_size": 0,
+    "file_extension": "",
+    "process_info": {
+      "pid": "168851",
+      "process_name": "chromium",
+      "process_path": "/usr/lib/chromium/chromium",
+      "cmdline": ""
+    },
+    "window_info": {
+      "window_handle": "50331650",
+      "window_title": "Attachment review · S6-C7A87324",
+      "window_class": "127.0.0.1__case_S6-C7A87324 / Chromium"
+    },
+    "user_info": {
+      "username": "agent",
+      "hostname": "6b8f966c2c52"
+    },
+    "disk_info": {
+      "drive_letter": "",
+      "disk_type": ""
+    },
+    "app_name": "Chrome",
+    "extra": {
+      "raw_operation": "app",
+      "category": "浏览器",
+      "source": "window_monitor",
+      "risk_level": "高",
+      "relative_timestamp": 13.543,
+      "end_time_source": "next_window_event"
+    },
+    "end_time": "2026-11-23T03:23:15.985"
+  },
+  {
+    "timestamp": "2026-11-23T03:23:15.985",
+    "event_type": "app_switch",
+    "file_path": "",
+    "file_name": "",
+    "file_size": 0,
+    "file_extension": "",
+    "process_info": {
+      "pid": "168851",
+      "process_name": "chromium",
+      "process_path": "/usr/lib/chromium/chromium",
+      "cmdline": ""
+    },
+    "window_info": {
+      "window_handle": "50331650",
+      "window_title": "Chooser cancelled · S6-C7A87324",
+      "window_class": "127.0.0.1__case_S6-C7A87324 / Chromium"
+    },
+    "user_info": {
+      "username": "agent",
+      "hostname": "6b8f966c2c52"
+    },
+    "disk_info": {
+      "drive_letter": "",
+      "disk_type": ""
+    },
+    "app_name": "Chrome",
+    "extra": {
+      "raw_operation": "app",
+      "category": "浏览器",
+      "source": "window_monitor",
+      "risk_level": "高",
+      "relative_timestamp": 17.092,
+      "end_time_source": "session_stop"
+    },
+    "end_time": "2026-11-23T03:23:32.758"
+  }
+]

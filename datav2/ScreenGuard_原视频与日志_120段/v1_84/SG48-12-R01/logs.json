@@ -1,0 +1,350 @@
+[
+  {
+    "timestamp": "2026-11-23T01:50:55.406",
+    "event_type": "app_switch",
+    "file_path": "",
+    "file_name": "",
+    "file_size": 0,
+    "file_extension": "",
+    "process_info": {
+      "pid": "363",
+      "process_name": "thunar",
+      "process_path": "/usr/bin/thunar",
+      "cmdline": ""
+    },
+    "window_info": {
+      "window_handle": "10496597",
+      "window_title": "SG48-12-R01-inbox - Thunar",
+      "window_class": "thunar / Thunar"
+    },
+    "user_info": {
+      "username": "agent",
+      "hostname": "6b8f966c2c52"
+    },
+    "disk_info": {
+      "drive_letter": "",
+      "disk_type": ""
+    },
+    "app_name": "thunar",
+    "extra": {
+      "raw_operation": "none",
+      "category": "",
+      "source": "window_monitor",
+      "risk_level": "",
+      "relative_timestamp": 0.505
+    }
+  },
+  {
+    "timestamp": "2026-11-23T01:50:55.908",
+    "event_type": "app_switch",
+    "file_path": "",
+    "file_name": "",
+    "file_size": 0,
+    "file_extension": "",
+    "process_info": {
+      "pid": "19114",
+      "process_name": "python3",
+      "process_path": "/usr/bin/python3.13",
+      "cmdline": ""
+    },
+    "window_info": {
+      "window_handle": "41943043",
+      "window_title": "SG READY 82E93F2E759E",
+      "window_class": "marker.py / Marker.py"
+    },
+    "user_info": {
+      "username": "agent",
+      "hostname": "6b8f966c2c52"
+    },
+    "disk_info": {
+      "drive_letter": "",
+      "disk_type": ""
+    },
+    "app_name": "python3",
+    "extra": {
+      "raw_operation": "none",
+      "category": "",
+      "source": "window_monitor",
+      "risk_level": "",
+      "relative_timestamp": 1.006
+    }
+  },
+  {
+    "timestamp": "2026-11-23T01:50:57.912",
+    "event_type": "app_switch",
+    "file_path": "",
+    "file_name": "",
+    "file_size": 0,
+    "file_extension": "",
+    "process_info": {
+      "pid": "19114",
+      "process_name": "python3",
+      "process_path": "/usr/bin/python3.13",
+      "cmdline": ""
+    },
+    "window_info": {
+      "window_handle": "41943043",
+      "window_title": "SG START 82E93F2E759E",
+      "window_class": "marker.py / Marker.py"
+    },
+    "user_info": {
+      "username": "agent",
+      "hostname": "6b8f966c2c52"
+    },
+    "disk_info": {
+      "drive_letter": "",
+      "disk_type": ""
+    },
+    "app_name": "python3",
+    "extra": {
+      "raw_operation": "none",
+      "category": "",
+      "source": "window_monitor",
+      "risk_level": "",
+      "relative_timestamp": 3.01
+    }
+  },
+  {
+    "timestamp": "2026-11-23T01:51:00.419",
+    "event_type": "app_switch",
+    "file_path": "",
+    "file_name": "",
+    "file_size": 0,
+    "file_extension": "",
+    "process_info": {
+      "pid": "363",
+      "process_name": "thunar",
+      "process_path": "/usr/bin/thunar",
+      "cmdline": ""
+    },
+    "window_info": {
+      "window_handle": "10496597",
+      "window_title": "SG48-12-R01-inbox - Thunar",
+      "window_class": "thunar / Thunar"
+    },
+    "user_info": {
+      "username": "agent",
+      "hostname": "6b8f966c2c52"
+    },
+    "disk_info": {
+      "drive_letter": "",
+      "disk_type": ""
+    },
+    "app_name": "thunar",
+    "extra": {
+      "raw_operation": "none",
+      "category": "",
+      "source": "window_monitor",
+      "risk_level": "",
+      "relative_timestamp": 5.517
+    }
+  },
+  {
+    "timestamp": "2026-11-23T01:51:04.426",
+    "event_type": "app_switch",
+    "file_path": "",
+    "file_name": "",
+    "file_size": 0,
+    "file_extension": "",
+    "process_info": {
+      "pid": "363",
+      "process_name": "thunar",
+      "process_path": "/usr/bin/thunar",
+      "cmdline": ""
+    },
+    "window_info": {
+      "window_handle": "10497888",
+      "window_title": "Rename \"SG48-PUBLIC-12.txt\"",
+      "window_class": "thunar / Thunar"
+    },
+    "user_info": {
+      "username": "agent",
+      "hostname": "6b8f966c2c52"
+    },
+    "disk_info": {
+      "drive_letter": "",
+      "disk_type": ""
+    },
+    "app_name": "thunar",
+    "extra": {
+      "raw_operation": "none",
+      "category": "",
+      "source": "window_monitor",
+      "risk_level": "",
+      "relative_timestamp": 9.525
+    }
+  },
+  {
+    "timestamp": "2026-11-23T01:51:08.795",
+    "event_type": "opened",
+    "file_path": "/workspace/scratch/6d50e743decc/phase2-lab/workspace/SG48/SG48-12-R01/SG48-12-R01-inbox/SG48-PUBLIC-12.txt",
+    "file_name": "SG48-PUBLIC-12.txt",
+    "file_size": 82,
+    "file_extension": ".txt",
+    "process_info": {
+      "pid": "363",
+      "process_name": "thunar",
+      "process_path": "/usr/bin/thunar",
+      "cmdline": ""
+    },
+    "window_info": {
+      "window_handle": "10496597",
+      "window_title": "SG48-12-R01-inbox - Thunar",
+      "window_class": "thunar / Thunar"
+    },
+    "user_info": {
+      "username": "agent",
+      "hostname": "6b8f966c2c52"
+    },
+    "disk_info": {
+      "drive_letter": "",
+      "disk_type": "Fixed"
+    },
+    "app_name": "thunar",
+    "extra": {
+      "raw_operation": "opened",
+      "category": "",
+      "source": "watchdog_fs_monitor",
+      "process_attribution": "foreground_window_heuristic"
+    }
+  },
+  {
+    "timestamp": "2026-11-23T01:51:08.932",
+    "event_type": "window_closed",
+    "file_path": "",
+    "file_name": "",
+    "file_size": 0,
+    "file_extension": "",
+    "process_info": {
+      "pid": "363",
+      "process_name": "thunar",
+      "process_path": "/usr/bin/thunar",
+      "cmdline": ""
+    },
+    "window_info": {
+      "window_handle": "10497888",
+      "window_title": "Rename \"SG48-PUBLIC-12.txt\"",
+      "window_class": "thunar / Thunar"
+    },
+    "user_info": {
+      "username": "agent",
+      "hostname": "6b8f966c2c52"
+    },
+    "disk_info": {
+      "drive_letter": "",
+      "disk_type": ""
+    },
+    "app_name": "thunar",
+    "extra": {
+      "raw_operation": "window_closed",
+      "category": "",
+      "source": "window_monitor",
+      "end_time_source": "window_closed"
+    }
+  },
+  {
+    "timestamp": "2026-11-23T01:51:08.932",
+    "event_type": "app_switch",
+    "file_path": "",
+    "file_name": "",
+    "file_size": 0,
+    "file_extension": "",
+    "process_info": {
+      "pid": "363",
+      "process_name": "thunar",
+      "process_path": "/usr/bin/thunar",
+      "cmdline": ""
+    },
+    "window_info": {
+      "window_handle": "10496597",
+      "window_title": "SG48-12-R01-inbox - Thunar",
+      "window_class": "thunar / Thunar"
+    },
+    "user_info": {
+      "username": "agent",
+      "hostname": "6b8f966c2c52"
+    },
+    "disk_info": {
+      "drive_letter": "",
+      "disk_type": ""
+    },
+    "app_name": "thunar",
+    "extra": {
+      "raw_operation": "none",
+      "category": "",
+      "source": "window_monitor",
+      "risk_level": "",
+      "relative_timestamp": 14.031
+    }
+  },
+  {
+    "timestamp": "2026-11-23T01:51:26.981",
+    "event_type": "app_switch",
+    "file_path": "",
+    "file_name": "",
+    "file_size": 0,
+    "file_extension": "",
+    "process_info": {
+      "pid": "19114",
+      "process_name": "python3",
+      "process_path": "/usr/bin/python3.13",
+      "cmdline": ""
+    },
+    "window_info": {
+      "window_handle": "41943043",
+      "window_title": "SG START 82E93F2E759E",
+      "window_class": "marker.py / Marker.py"
+    },
+    "user_info": {
+      "username": "agent",
+      "hostname": "6b8f966c2c52"
+    },
+    "disk_info": {
+      "drive_letter": "",
+      "disk_type": ""
+    },
+    "app_name": "python3",
+    "extra": {
+      "raw_operation": "none",
+      "category": "",
+      "source": "window_monitor",
+      "risk_level": "",
+      "relative_timestamp": 32.079
+    }
+  },
+  {
+    "timestamp": "2026-11-23T01:51:28.483",
+    "event_type": "app_switch",
+    "file_path": "",
+    "file_name": "",
+    "file_size": 0,
+    "file_extension": "",
+    "process_info": {
+      "pid": "19114",
+      "process_name": "python3",
+      "process_path": "/usr/bin/python3.13",
+      "cmdline": ""
+    },
+    "window_info": {
+      "window_handle": "41943043",
+      "window_title": "SG END 82E93F2E759E",
+      "window_class": "marker.py / Marker.py"
+    },
+    "user_info": {
+      "username": "agent",
+      "hostname": "6b8f966c2c52"
+    },
+    "disk_info": {
+      "drive_letter": "",
+      "disk_type": ""
+    },
+    "app_name": "python3",
+    "extra": {
+      "raw_operation": "none",
+      "category": "",
+      "source": "window_monitor",
+      "risk_level": "",
+      "relative_timestamp": 33.581
+    }
+  }
+]

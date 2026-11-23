@@ -1,0 +1,524 @@
+[
+  {
+    "timestamp": "2026-11-23T02:17:49.466",
+    "event_type": "app_switch",
+    "file_path": "",
+    "file_name": "",
+    "file_size": 0,
+    "file_extension": "",
+    "process_info": {
+      "pid": "363",
+      "process_name": "thunar",
+      "process_path": "/usr/bin/thunar",
+      "cmdline": ""
+    },
+    "window_info": {
+      "window_handle": "10507469",
+      "window_title": "SG48-16-R01-inbox - Thunar",
+      "window_class": "thunar / Thunar"
+    },
+    "user_info": {
+      "username": "agent",
+      "hostname": "6b8f966c2c52"
+    },
+    "disk_info": {
+      "drive_letter": "",
+      "disk_type": ""
+    },
+    "app_name": "thunar",
+    "extra": {
+      "raw_operation": "none",
+      "category": "",
+      "source": "window_monitor",
+      "risk_level": "",
+      "relative_timestamp": 0.507
+    }
+  },
+  {
+    "timestamp": "2026-11-23T02:17:49.968",
+    "event_type": "app_switch",
+    "file_path": "",
+    "file_name": "",
+    "file_size": 0,
+    "file_extension": "",
+    "process_info": {
+      "pid": "57500",
+      "process_name": "python3",
+      "process_path": "/usr/bin/python3.13",
+      "cmdline": ""
+    },
+    "window_info": {
+      "window_handle": "44040195",
+      "window_title": "SG READY 5AF4CEC047A1",
+      "window_class": "marker.py / Marker.py"
+    },
+    "user_info": {
+      "username": "agent",
+      "hostname": "6b8f966c2c52"
+    },
+    "disk_info": {
+      "drive_letter": "",
+      "disk_type": ""
+    },
+    "app_name": "python3",
+    "extra": {
+      "raw_operation": "none",
+      "category": "",
+      "source": "window_monitor",
+      "risk_level": "",
+      "relative_timestamp": 1.009
+    }
+  },
+  {
+    "timestamp": "2026-11-23T02:17:51.971",
+    "event_type": "app_switch",
+    "file_path": "",
+    "file_name": "",
+    "file_size": 0,
+    "file_extension": "",
+    "process_info": {
+      "pid": "57500",
+      "process_name": "python3",
+      "process_path": "/usr/bin/python3.13",
+      "cmdline": ""
+    },
+    "window_info": {
+      "window_handle": "44040195",
+      "window_title": "SG START 5AF4CEC047A1",
+      "window_class": "marker.py / Marker.py"
+    },
+    "user_info": {
+      "username": "agent",
+      "hostname": "6b8f966c2c52"
+    },
+    "disk_info": {
+      "drive_letter": "",
+      "disk_type": ""
+    },
+    "app_name": "python3",
+    "extra": {
+      "raw_operation": "none",
+      "category": "",
+      "source": "window_monitor",
+      "risk_level": "",
+      "relative_timestamp": 3.012
+    }
+  },
+  {
+    "timestamp": "2026-11-23T02:17:54.319",
+    "event_type": "opened",
+    "file_path": "/workspace/scratch/6d50e743decc/phase2-lab/workspace/SG48/SG48-35-R01/SG48-DESIGNATED-35.png",
+    "file_name": "SG48-DESIGNATED-35.png",
+    "file_size": 9702,
+    "file_extension": ".png",
+    "process_info": {
+      "pid": "57398",
+      "process_name": "gimp",
+      "process_path": "/usr/bin/gimp-3.0",
+      "cmdline": ""
+    },
+    "window_info": {
+      "window_handle": "37748757",
+      "window_title": "Welcome to GIMP 3.0.4",
+      "window_class": "gimp / Gimp"
+    },
+    "user_info": {
+      "username": "agent",
+      "hostname": "6b8f966c2c52"
+    },
+    "disk_info": {
+      "drive_letter": "",
+      "disk_type": "Fixed"
+    },
+    "app_name": "gimp",
+    "extra": {
+      "raw_operation": "opened",
+      "category": "",
+      "source": "watchdog_fs_monitor",
+      "process_attribution": "foreground_window_heuristic"
+    }
+  },
+  {
+    "timestamp": "2026-11-23T02:17:54.476",
+    "event_type": "app_switch",
+    "file_path": "",
+    "file_name": "",
+    "file_size": 0,
+    "file_extension": "",
+    "process_info": {
+      "pid": "57398",
+      "process_name": "gimp",
+      "process_path": "/usr/bin/gimp-3.0",
+      "cmdline": ""
+    },
+    "window_info": {
+      "window_handle": "37748757",
+      "window_title": "Welcome to GIMP 3.0.4",
+      "window_class": "gimp / Gimp"
+    },
+    "user_info": {
+      "username": "agent",
+      "hostname": "6b8f966c2c52"
+    },
+    "disk_info": {
+      "drive_letter": "",
+      "disk_type": ""
+    },
+    "app_name": "gimp",
+    "extra": {
+      "raw_operation": "none",
+      "category": "",
+      "source": "window_monitor",
+      "risk_level": "",
+      "relative_timestamp": 5.517
+    }
+  },
+  {
+    "timestamp": "2026-11-23T02:17:55.477",
+    "event_type": "app_switch",
+    "file_path": "",
+    "file_name": "",
+    "file_size": 0,
+    "file_extension": "",
+    "process_info": {
+      "pid": "57398",
+      "process_name": "gimp",
+      "process_path": "/usr/bin/gimp-3.0",
+      "cmdline": ""
+    },
+    "window_info": {
+      "window_handle": "37748740",
+      "window_title": "[SG48-DESIGNATED-35] (imported)-1.0 (RGB color 8-bit non-linear integer, GIMP built-in sRGB, 1 layer) 512x320 – GIMP",
+      "window_class": "gimp / Gimp"
+    },
+    "user_info": {
+      "username": "agent",
+      "hostname": "6b8f966c2c52"
+    },
+    "disk_info": {
+      "drive_letter": "",
+      "disk_type": ""
+    },
+    "app_name": "gimp",
+    "extra": {
+      "raw_operation": "none",
+      "category": "",
+      "source": "window_monitor",
+      "risk_level": "",
+      "relative_timestamp": 6.519
+    }
+  },
+  {
+    "timestamp": "2026-11-23T02:17:56.980",
+    "event_type": "app_switch",
+    "file_path": "",
+    "file_name": "",
+    "file_size": 0,
+    "file_extension": "",
+    "process_info": {
+      "pid": "57398",
+      "process_name": "gimp",
+      "process_path": "/usr/bin/gimp-3.0",
+      "cmdline": ""
+    },
+    "window_info": {
+      "window_handle": "37748757",
+      "window_title": "Welcome to GIMP 3.0.4",
+      "window_class": "gimp / Gimp"
+    },
+    "user_info": {
+      "username": "agent",
+      "hostname": "6b8f966c2c52"
+    },
+    "disk_info": {
+      "drive_letter": "",
+      "disk_type": ""
+    },
+    "app_name": "gimp",
+    "extra": {
+      "raw_operation": "none",
+      "category": "",
+      "source": "window_monitor",
+      "risk_level": "",
+      "relative_timestamp": 8.021
+    }
+  },
+  {
+    "timestamp": "2026-11-23T02:17:57.981",
+    "event_type": "window_closed",
+    "file_path": "",
+    "file_name": "",
+    "file_size": 0,
+    "file_extension": "",
+    "process_info": {
+      "pid": "57398",
+      "process_name": "gimp",
+      "process_path": "/usr/bin/gimp-3.0",
+      "cmdline": ""
+    },
+    "window_info": {
+      "window_handle": "37748757",
+      "window_title": "Welcome to GIMP 3.0.4",
+      "window_class": "gimp / Gimp"
+    },
+    "user_info": {
+      "username": "agent",
+      "hostname": "6b8f966c2c52"
+    },
+    "disk_info": {
+      "drive_letter": "",
+      "disk_type": ""
+    },
+    "app_name": "gimp",
+    "extra": {
+      "raw_operation": "window_closed",
+      "category": "",
+      "source": "window_monitor",
+      "end_time_source": "window_closed"
+    }
+  },
+  {
+    "timestamp": "2026-11-23T02:17:57.981",
+    "event_type": "app_switch",
+    "file_path": "",
+    "file_name": "",
+    "file_size": 0,
+    "file_extension": "",
+    "process_info": {
+      "pid": "57398",
+      "process_name": "gimp",
+      "process_path": "/usr/bin/gimp-3.0",
+      "cmdline": ""
+    },
+    "window_info": {
+      "window_handle": "37748740",
+      "window_title": "[SG48-DESIGNATED-35] (imported)-1.0 (RGB color 8-bit non-linear integer, GIMP built-in sRGB, 1 layer) 512x320 – GIMP",
+      "window_class": "gimp / Gimp"
+    },
+    "user_info": {
+      "username": "agent",
+      "hostname": "6b8f966c2c52"
+    },
+    "disk_info": {
+      "drive_letter": "",
+      "disk_type": ""
+    },
+    "app_name": "gimp",
+    "extra": {
+      "raw_operation": "none",
+      "category": "",
+      "source": "window_monitor",
+      "risk_level": "",
+      "relative_timestamp": 9.023
+    }
+  },
+  {
+    "timestamp": "2026-11-23T02:18:01.995",
+    "event_type": "app_switch",
+    "file_path": "",
+    "file_name": "",
+    "file_size": 0,
+    "file_extension": "",
+    "process_info": {
+      "pid": "57398",
+      "process_name": "gimp",
+      "process_path": "/usr/bin/gimp-3.0",
+      "cmdline": ""
+    },
+    "window_info": {
+      "window_handle": "37748740",
+      "window_title": "*[SG48-DESIGNATED-35] (imported)-1.0 (RGB color 8-bit non-linear integer, GIMP built-in sRGB, 1 layer) 512x320 – GIMP",
+      "window_class": "gimp / Gimp"
+    },
+    "user_info": {
+      "username": "agent",
+      "hostname": "6b8f966c2c52"
+    },
+    "disk_info": {
+      "drive_letter": "",
+      "disk_type": ""
+    },
+    "app_name": "gimp",
+    "extra": {
+      "raw_operation": "none",
+      "category": "",
+      "source": "window_monitor",
+      "risk_level": "",
+      "relative_timestamp": 13.037
+    }
+  },
+  {
+    "timestamp": "2026-11-23T02:18:07.188",
+    "event_type": "opened",
+    "file_path": "/workspace/scratch/6d50e743decc/phase2-lab/workspace/SG48/SG48-35-R01/SG48-DESIGNATED-35.png",
+    "file_name": "SG48-DESIGNATED-35.png",
+    "file_size": 9702,
+    "file_extension": ".png",
+    "process_info": {
+      "pid": "57398",
+      "process_name": "gimp",
+      "process_path": "/usr/bin/gimp-3.0",
+      "cmdline": ""
+    },
+    "window_info": {
+      "window_handle": "37748740",
+      "window_title": "*[SG48-DESIGNATED-35] (imported)-1.0 (RGB color 8-bit non-linear integer, GIMP built-in sRGB, 1 layer) 512x320 – GIMP",
+      "window_class": "gimp / Gimp"
+    },
+    "user_info": {
+      "username": "agent",
+      "hostname": "6b8f966c2c52"
+    },
+    "disk_info": {
+      "drive_letter": "",
+      "disk_type": "Fixed"
+    },
+    "app_name": "gimp",
+    "extra": {
+      "raw_operation": "opened",
+      "category": "",
+      "source": "watchdog_fs_monitor",
+      "process_attribution": "foreground_window_heuristic"
+    }
+  },
+  {
+    "timestamp": "2026-11-23T02:18:09.009",
+    "event_type": "app_switch",
+    "file_path": "",
+    "file_name": "",
+    "file_size": 0,
+    "file_extension": "",
+    "process_info": {
+      "pid": "57398",
+      "process_name": "gimp",
+      "process_path": "/usr/bin/gimp-3.0",
+      "cmdline": ""
+    },
+    "window_info": {
+      "window_handle": "37748740",
+      "window_title": "GNU Image Manipulation Program",
+      "window_class": "gimp / Gimp"
+    },
+    "user_info": {
+      "username": "agent",
+      "hostname": "6b8f966c2c52"
+    },
+    "disk_info": {
+      "drive_letter": "",
+      "disk_type": ""
+    },
+    "app_name": "gimp",
+    "extra": {
+      "raw_operation": "none",
+      "category": "",
+      "source": "window_monitor",
+      "risk_level": "",
+      "relative_timestamp": 20.051
+    }
+  },
+  {
+    "timestamp": "2026-11-23T02:18:09.512",
+    "event_type": "app_switch",
+    "file_path": "",
+    "file_name": "",
+    "file_size": 0,
+    "file_extension": "",
+    "process_info": {
+      "pid": "57398",
+      "process_name": "gimp",
+      "process_path": "/usr/bin/gimp-3.0",
+      "cmdline": ""
+    },
+    "window_info": {
+      "window_handle": "37748740",
+      "window_title": "*[Untitled]-3.0 (RGB color 8-bit non-linear integer, GIMP built-in sRGB, 1 layer) 512x320 – GIMP",
+      "window_class": "gimp / Gimp"
+    },
+    "user_info": {
+      "username": "agent",
+      "hostname": "6b8f966c2c52"
+    },
+    "disk_info": {
+      "drive_letter": "",
+      "disk_type": ""
+    },
+    "app_name": "gimp",
+    "extra": {
+      "raw_operation": "none",
+      "category": "",
+      "source": "window_monitor",
+      "risk_level": "",
+      "relative_timestamp": 20.553
+    }
+  },
+  {
+    "timestamp": "2026-11-23T02:18:21.032",
+    "event_type": "app_switch",
+    "file_path": "",
+    "file_name": "",
+    "file_size": 0,
+    "file_extension": "",
+    "process_info": {
+      "pid": "57500",
+      "process_name": "python3",
+      "process_path": "/usr/bin/python3.13",
+      "cmdline": ""
+    },
+    "window_info": {
+      "window_handle": "44040195",
+      "window_title": "SG START 5AF4CEC047A1",
+      "window_class": "marker.py / Marker.py"
+    },
+    "user_info": {
+      "username": "agent",
+      "hostname": "6b8f966c2c52"
+    },
+    "disk_info": {
+      "drive_letter": "",
+      "disk_type": ""
+    },
+    "app_name": "python3",
+    "extra": {
+      "raw_operation": "none",
+      "category": "",
+      "source": "window_monitor",
+      "risk_level": "",
+      "relative_timestamp": 32.074
+    }
+  },
+  {
+    "timestamp": "2026-11-23T02:18:22.536",
+    "event_type": "app_switch",
+    "file_path": "",
+    "file_name": "",
+    "file_size": 0,
+    "file_extension": "",
+    "process_info": {
+      "pid": "57500",
+      "process_name": "python3",
+      "process_path": "/usr/bin/python3.13",
+      "cmdline": ""
+    },
+    "window_info": {
+      "window_handle": "44040195",
+      "window_title": "SG END 5AF4CEC047A1",
+      "window_class": "marker.py / Marker.py"
+    },
+    "user_info": {
+      "username": "agent",
+      "hostname": "6b8f966c2c52"
+    },
+    "disk_info": {
+      "drive_letter": "",
+      "disk_type": ""
+    },
+    "app_name": "python3",
+    "extra": {
+      "raw_operation": "none",
+      "category": "",
+      "source": "window_monitor",
+      "risk_level": "",
+      "relative_timestamp": 33.578
+    }
+  }
+]

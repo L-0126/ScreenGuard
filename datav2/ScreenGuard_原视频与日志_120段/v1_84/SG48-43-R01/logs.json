@@ -1,0 +1,452 @@
+[
+  {
+    "timestamp": "2026-11-23T02:34:50.974",
+    "event_type": "app_switch",
+    "file_path": "",
+    "file_name": "",
+    "file_size": 0,
+    "file_extension": "",
+    "process_info": {
+      "pid": "78375",
+      "process_name": "wps",
+      "process_path": "/workspace/scratch/6d50e743decc/collect48/packages/wps/opt/kingsoft/wps-office/office6/wps",
+      "cmdline": ""
+    },
+    "window_info": {
+      "window_handle": "37748751",
+      "window_title": "SG48-DESIGNATED-43.docx - Writer",
+      "window_class": "wps / wps"
+    },
+    "user_info": {
+      "username": "agent",
+      "hostname": "6b8f966c2c52"
+    },
+    "disk_info": {
+      "drive_letter": "",
+      "disk_type": ""
+    },
+    "app_name": "wps",
+    "extra": {
+      "raw_operation": "none",
+      "category": "",
+      "source": "window_monitor",
+      "risk_level": "",
+      "relative_timestamp": 0.505
+    }
+  },
+  {
+    "timestamp": "2026-11-23T02:34:51.475",
+    "event_type": "app_switch",
+    "file_path": "",
+    "file_name": "",
+    "file_size": 0,
+    "file_extension": "",
+    "process_info": {
+      "pid": "78467",
+      "process_name": "python3",
+      "process_path": "/usr/bin/python3.13",
+      "cmdline": ""
+    },
+    "window_info": {
+      "window_handle": "52428803",
+      "window_title": "SG READY DBB0C85E4524",
+      "window_class": "marker.py / Marker.py"
+    },
+    "user_info": {
+      "username": "agent",
+      "hostname": "6b8f966c2c52"
+    },
+    "disk_info": {
+      "drive_letter": "",
+      "disk_type": ""
+    },
+    "app_name": "python3",
+    "extra": {
+      "raw_operation": "none",
+      "category": "",
+      "source": "window_monitor",
+      "risk_level": "",
+      "relative_timestamp": 1.006
+    }
+  },
+  {
+    "timestamp": "2026-11-23T02:34:53.479",
+    "event_type": "app_switch",
+    "file_path": "",
+    "file_name": "",
+    "file_size": 0,
+    "file_extension": "",
+    "process_info": {
+      "pid": "78467",
+      "process_name": "python3",
+      "process_path": "/usr/bin/python3.13",
+      "cmdline": ""
+    },
+    "window_info": {
+      "window_handle": "52428803",
+      "window_title": "SG START DBB0C85E4524",
+      "window_class": "marker.py / Marker.py"
+    },
+    "user_info": {
+      "username": "agent",
+      "hostname": "6b8f966c2c52"
+    },
+    "disk_info": {
+      "drive_letter": "",
+      "disk_type": ""
+    },
+    "app_name": "python3",
+    "extra": {
+      "raw_operation": "none",
+      "category": "",
+      "source": "window_monitor",
+      "risk_level": "",
+      "relative_timestamp": 3.009
+    }
+  },
+  {
+    "timestamp": "2026-11-23T02:34:55.984",
+    "event_type": "app_switch",
+    "file_path": "",
+    "file_name": "",
+    "file_size": 0,
+    "file_extension": "",
+    "process_info": {
+      "pid": "78375",
+      "process_name": "wps",
+      "process_path": "/workspace/scratch/6d50e743decc/collect48/packages/wps/opt/kingsoft/wps-office/office6/wps",
+      "cmdline": ""
+    },
+    "window_info": {
+      "window_handle": "37748751",
+      "window_title": "SG48-DESIGNATED-43.docx - Writer",
+      "window_class": "wps / wps"
+    },
+    "user_info": {
+      "username": "agent",
+      "hostname": "6b8f966c2c52"
+    },
+    "disk_info": {
+      "drive_letter": "",
+      "disk_type": ""
+    },
+    "app_name": "wps",
+    "extra": {
+      "raw_operation": "none",
+      "category": "",
+      "source": "window_monitor",
+      "risk_level": "",
+      "relative_timestamp": 5.514
+    }
+  },
+  {
+    "timestamp": "2026-11-23T02:34:57.749",
+    "event_type": "opened",
+    "file_path": "/workspace/scratch/6d50e743decc/phase2-lab/workspace/SG48/SG48-43-R01/SG48-DESIGNATED-43.docx",
+    "file_name": "SG48-DESIGNATED-43.docx",
+    "file_size": 36681,
+    "file_extension": ".docx",
+    "process_info": {
+      "pid": "78375",
+      "process_name": "wps",
+      "process_path": "/workspace/scratch/6d50e743decc/collect48/packages/wps/opt/kingsoft/wps-office/office6/wps",
+      "cmdline": ""
+    },
+    "window_info": {
+      "window_handle": "37748751",
+      "window_title": "SG48-DESIGNATED-43.docx - Writer",
+      "window_class": "wps / wps"
+    },
+    "user_info": {
+      "username": "agent",
+      "hostname": "6b8f966c2c52"
+    },
+    "disk_info": {
+      "drive_letter": "",
+      "disk_type": "Fixed"
+    },
+    "app_name": "WPS",
+    "extra": {
+      "raw_operation": "opened",
+      "category": "",
+      "source": "watchdog_fs_monitor",
+      "process_attribution": "foreground_window_heuristic"
+    }
+  },
+  {
+    "timestamp": "2026-11-23T02:35:03.999",
+    "event_type": "app_switch",
+    "file_path": "",
+    "file_name": "",
+    "file_size": 0,
+    "file_extension": "",
+    "process_info": {
+      "pid": "78375",
+      "process_name": "wps",
+      "process_path": "/workspace/scratch/6d50e743decc/collect48/packages/wps/opt/kingsoft/wps-office/office6/wps",
+      "cmdline": ""
+    },
+    "window_info": {
+      "window_handle": "37749078",
+      "window_title": "Export PDF File",
+      "window_class": "wps / wps"
+    },
+    "user_info": {
+      "username": "agent",
+      "hostname": "6b8f966c2c52"
+    },
+    "disk_info": {
+      "drive_letter": "",
+      "disk_type": ""
+    },
+    "app_name": "wps",
+    "extra": {
+      "raw_operation": "none",
+      "category": "",
+      "source": "window_monitor",
+      "risk_level": "",
+      "relative_timestamp": 13.529
+    }
+  },
+  {
+    "timestamp": "2026-11-23T02:35:06.941",
+    "event_type": "created",
+    "file_path": "/workspace/scratch/6d50e743decc/phase2-lab/workspace/SG48/SG48-43-R01/SG48-DESIGNATED-43.pdf",
+    "file_name": "SG48-DESIGNATED-43.pdf",
+    "file_size": 30465,
+    "file_extension": ".pdf",
+    "process_info": {
+      "pid": "78375",
+      "process_name": "wps",
+      "process_path": "/workspace/scratch/6d50e743decc/collect48/packages/wps/opt/kingsoft/wps-office/office6/wps",
+      "cmdline": ""
+    },
+    "window_info": {
+      "window_handle": "37749101",
+      "window_title": "Export to PDF File",
+      "window_class": "wps / wps"
+    },
+    "user_info": {
+      "username": "agent",
+      "hostname": "6b8f966c2c52"
+    },
+    "disk_info": {
+      "drive_letter": "",
+      "disk_type": "Fixed"
+    },
+    "app_name": "WPS",
+    "extra": {
+      "raw_operation": "created",
+      "category": "",
+      "source": "watchdog_fs_monitor",
+      "process_attribution": "foreground_window_heuristic"
+    }
+  },
+  {
+    "timestamp": "2026-11-23T02:35:06.962",
+    "event_type": "opened",
+    "file_path": "/workspace/scratch/6d50e743decc/phase2-lab/workspace/SG48/SG48-43-R01/SG48-DESIGNATED-43.pdf",
+    "file_name": "SG48-DESIGNATED-43.pdf",
+    "file_size": 30465,
+    "file_extension": ".pdf",
+    "process_info": {
+      "pid": "78375",
+      "process_name": "wps",
+      "process_path": "/workspace/scratch/6d50e743decc/collect48/packages/wps/opt/kingsoft/wps-office/office6/wps",
+      "cmdline": ""
+    },
+    "window_info": {
+      "window_handle": "37749101",
+      "window_title": "Export to PDF File",
+      "window_class": "wps / wps"
+    },
+    "user_info": {
+      "username": "agent",
+      "hostname": "6b8f966c2c52"
+    },
+    "disk_info": {
+      "drive_letter": "",
+      "disk_type": "Fixed"
+    },
+    "app_name": "WPS",
+    "extra": {
+      "raw_operation": "opened",
+      "category": "",
+      "source": "watchdog_fs_monitor",
+      "process_attribution": "foreground_window_heuristic"
+    }
+  },
+  {
+    "timestamp": "2026-11-23T02:35:07.003",
+    "event_type": "app_switch",
+    "file_path": "",
+    "file_name": "",
+    "file_size": 0,
+    "file_extension": "",
+    "process_info": {
+      "pid": "78375",
+      "process_name": "wps",
+      "process_path": "/workspace/scratch/6d50e743decc/collect48/packages/wps/opt/kingsoft/wps-office/office6/wps",
+      "cmdline": ""
+    },
+    "window_info": {
+      "window_handle": "37749101",
+      "window_title": "Export to PDF File",
+      "window_class": "wps / wps"
+    },
+    "user_info": {
+      "username": "agent",
+      "hostname": "6b8f966c2c52"
+    },
+    "disk_info": {
+      "drive_letter": "",
+      "disk_type": ""
+    },
+    "app_name": "wps",
+    "extra": {
+      "raw_operation": "none",
+      "category": "",
+      "source": "window_monitor",
+      "risk_level": "",
+      "relative_timestamp": 16.533
+    }
+  },
+  {
+    "timestamp": "2026-11-23T02:35:07.705",
+    "event_type": "opened",
+    "file_path": "/workspace/scratch/6d50e743decc/phase2-lab/workspace/SG48/SG48-43-R01/SG48-DESIGNATED-43.docx",
+    "file_name": "SG48-DESIGNATED-43.docx",
+    "file_size": 36681,
+    "file_extension": ".docx",
+    "process_info": {
+      "pid": "78375",
+      "process_name": "wps",
+      "process_path": "/workspace/scratch/6d50e743decc/collect48/packages/wps/opt/kingsoft/wps-office/office6/wps",
+      "cmdline": ""
+    },
+    "window_info": {
+      "window_handle": "37749101",
+      "window_title": "Export to PDF File",
+      "window_class": "wps / wps"
+    },
+    "user_info": {
+      "username": "agent",
+      "hostname": "6b8f966c2c52"
+    },
+    "disk_info": {
+      "drive_letter": "",
+      "disk_type": "Fixed"
+    },
+    "app_name": "WPS",
+    "extra": {
+      "raw_operation": "opened",
+      "category": "",
+      "source": "watchdog_fs_monitor",
+      "process_attribution": "foreground_window_heuristic"
+    }
+  },
+  {
+    "timestamp": "2026-11-23T02:35:06.980",
+    "event_type": "modified",
+    "file_path": "/workspace/scratch/6d50e743decc/phase2-lab/workspace/SG48/SG48-43-R01/SG48-DESIGNATED-43.pdf",
+    "file_name": "SG48-DESIGNATED-43.pdf",
+    "file_size": 30465,
+    "file_extension": ".pdf",
+    "process_info": {
+      "pid": "78375",
+      "process_name": "wps",
+      "process_path": "/workspace/scratch/6d50e743decc/collect48/packages/wps/opt/kingsoft/wps-office/office6/wps",
+      "cmdline": ""
+    },
+    "window_info": {
+      "window_handle": "37749101",
+      "window_title": "Export to PDF File",
+      "window_class": "wps / wps"
+    },
+    "user_info": {
+      "username": "agent",
+      "hostname": "6b8f966c2c52"
+    },
+    "disk_info": {
+      "drive_letter": "",
+      "disk_type": "Fixed"
+    },
+    "app_name": "WPS",
+    "extra": {
+      "raw_operation": "modified",
+      "category": "",
+      "source": "watchdog_fs_monitor",
+      "process_attribution": "foreground_window_heuristic"
+    }
+  },
+  {
+    "timestamp": "2026-11-23T02:35:22.525",
+    "event_type": "app_switch",
+    "file_path": "",
+    "file_name": "",
+    "file_size": 0,
+    "file_extension": "",
+    "process_info": {
+      "pid": "78467",
+      "process_name": "python3",
+      "process_path": "/usr/bin/python3.13",
+      "cmdline": ""
+    },
+    "window_info": {
+      "window_handle": "52428803",
+      "window_title": "SG START DBB0C85E4524",
+      "window_class": "marker.py / Marker.py"
+    },
+    "user_info": {
+      "username": "agent",
+      "hostname": "6b8f966c2c52"
+    },
+    "disk_info": {
+      "drive_letter": "",
+      "disk_type": ""
+    },
+    "app_name": "python3",
+    "extra": {
+      "raw_operation": "none",
+      "category": "",
+      "source": "window_monitor",
+      "risk_level": "",
+      "relative_timestamp": 32.055
+    }
+  },
+  {
+    "timestamp": "2026-11-23T02:35:24.528",
+    "event_type": "app_switch",
+    "file_path": "",
+    "file_name": "",
+    "file_size": 0,
+    "file_extension": "",
+    "process_info": {
+      "pid": "78467",
+      "process_name": "python3",
+      "process_path": "/usr/bin/python3.13",
+      "cmdline": ""
+    },
+    "window_info": {
+      "window_handle": "52428803",
+      "window_title": "SG END DBB0C85E4524",
+      "window_class": "marker.py / Marker.py"
+    },
+    "user_info": {
+      "username": "agent",
+      "hostname": "6b8f966c2c52"
+    },
+    "disk_info": {
+      "drive_letter": "",
+      "disk_type": ""
+    },
+    "app_name": "python3",
+    "extra": {
+      "raw_operation": "none",
+      "category": "",
+      "source": "window_monitor",
+      "risk_level": "",
+      "relative_timestamp": 34.058
+    }
+  }
+]

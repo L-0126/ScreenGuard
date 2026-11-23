@@ -1,0 +1,41 @@
+[
+  {
+    "timestamp": "2026-11-23T03:05:17.773",
+    "event_type": "clipboard_text",
+    "file_path": "",
+    "file_name": "",
+    "file_size": 0,
+    "file_extension": "",
+    "process_info": {
+      "pid": "106626",
+      "process_name": "wps",
+      "process_path": "/workspace/scratch/6d50e743decc/collect48/packages/wps/opt/kingsoft/wps-office/office6/wps",
+      "cmdline": ""
+    },
+    "window_info": {
+      "window_handle": "",
+      "window_title": "",
+      "window_class": ""
+    },
+    "user_info": {
+      "username": "agent",
+      "hostname": "6b8f966c2c52"
+    },
+    "disk_info": {
+      "drive_letter": "",
+      "disk_type": ""
+    },
+    "app_name": "WPS",
+    "extra": {
+      "raw_operation": "clipboard_text",
+      "category": "clipboard",
+      "source": "linux_x11_clipboard_monitor",
+      "process_association": "foreground_window_at_observation_not_verified_owner",
+      "image_capture_supported": false,
+      "end_time_source": "instant"
+    },
+    "content_preview": "Garden revision 2934EB\r\nReview desk 7 has three sample rows.",
+    "content_hash": "937a7f0af1daf32e",
+    "end_time": "2026-11-23T03:05:17.773"
+  }
+]

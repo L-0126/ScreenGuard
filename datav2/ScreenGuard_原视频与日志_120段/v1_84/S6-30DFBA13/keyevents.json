@@ -1,0 +1,80 @@
+[
+  {
+    "timestamp": "2026-11-23T03:08:31.658",
+    "event_type": "clipboard_text",
+    "file_path": "",
+    "file_name": "",
+    "file_size": 0,
+    "file_extension": "",
+    "process_info": {
+      "pid": "118399",
+      "process_name": "mousepad",
+      "process_path": "/usr/bin/mousepad",
+      "cmdline": ""
+    },
+    "window_info": {
+      "window_handle": "",
+      "window_title": "",
+      "window_class": ""
+    },
+    "user_info": {
+      "username": "agent",
+      "hostname": "6b8f966c2c52"
+    },
+    "disk_info": {
+      "drive_letter": "",
+      "disk_type": ""
+    },
+    "app_name": "mousepad",
+    "extra": {
+      "raw_operation": "clipboard_text",
+      "category": "clipboard",
+      "source": "linux_x11_clipboard_monitor",
+      "process_association": "foreground_window_at_observation_not_verified_owner",
+      "image_capture_supported": false,
+      "end_time_source": "instant"
+    },
+    "content_preview": "Costume revision 1A698A\nReview desk 8 has three sample rows.\n",
+    "content_hash": "6c6fd4aedea5dc56",
+    "end_time": "2026-11-23T03:08:31.658"
+  },
+  {
+    "timestamp": "2026-11-23T03:08:47.877",
+    "event_type": "renamed",
+    "file_path": "/workspace/scratch/6d50e743decc/phase2-lab/workspace/P456/S6-30DFBA13/Desk/Sheet-1A698A.txt",
+    "file_name": "Sheet-1A698A.txt",
+    "file_size": 61,
+    "file_extension": ".txt",
+    "process_info": {
+      "pid": "363",
+      "process_name": "thunar",
+      "process_path": "/usr/bin/thunar",
+      "cmdline": ""
+    },
+    "window_info": {
+      "window_handle": "10571869",
+      "window_title": "Desk - Thunar",
+      "window_class": "thunar / Thunar"
+    },
+    "user_info": {
+      "username": "agent",
+      "hostname": "6b8f966c2c52"
+    },
+    "disk_info": {
+      "drive_letter": "",
+      "disk_type": "Fixed"
+    },
+    "app_name": "thunar",
+    "destination_path": "/workspace/scratch/6d50e743decc/phase2-lab/workspace/P456/S6-30DFBA13/Desk/Summary-1A698A.txt",
+    "destination_name": "Summary-1A698A.txt",
+    "destination_extension": ".txt",
+    "extra": {
+      "raw_operation": "renamed",
+      "category": "",
+      "source": "watchdog_fs_monitor",
+      "process_attribution": "foreground_window_heuristic",
+      "end_time_source": "instant"
+    },
+    "end_time": "2026-11-23T03:08:47.877"
+  }
+]

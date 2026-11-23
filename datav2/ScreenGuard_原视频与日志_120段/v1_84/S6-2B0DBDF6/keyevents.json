@@ -1,0 +1,226 @@
+[
+  {
+    "timestamp": "2026-11-23T03:26:15.224",
+    "event_type": "app_switch",
+    "file_path": "",
+    "file_name": "",
+    "file_size": 0,
+    "file_extension": "",
+    "process_info": {
+      "pid": "180573",
+      "process_name": "chromium",
+      "process_path": "/usr/lib/chromium/chromium",
+      "cmdline": ""
+    },
+    "window_info": {
+      "window_handle": "50331650",
+      "window_title": "Attachment review · S6-2B0DBDF6",
+      "window_class": "127.0.0.1__case_S6-2B0DBDF6 / Chromium"
+    },
+    "user_info": {
+      "username": "agent",
+      "hostname": "6b8f966c2c52"
+    },
+    "disk_info": {
+      "drive_letter": "",
+      "disk_type": ""
+    },
+    "app_name": "Chrome",
+    "extra": {
+      "raw_operation": "app",
+      "category": "浏览器",
+      "source": "window_monitor",
+      "risk_level": "高",
+      "relative_timestamp": 0.51,
+      "end_time_source": "next_window_event"
+    },
+    "end_time": "2026-11-23T03:26:26.245"
+  },
+  {
+    "timestamp": "2026-11-23T03:26:21.727",
+    "event_type": "clipboard_text",
+    "file_path": "",
+    "file_name": "",
+    "file_size": 0,
+    "file_extension": "",
+    "process_info": {
+      "pid": "180560",
+      "process_name": "mousepad",
+      "process_path": "/usr/bin/mousepad",
+      "cmdline": ""
+    },
+    "window_info": {
+      "window_handle": "",
+      "window_title": "",
+      "window_class": ""
+    },
+    "user_info": {
+      "username": "agent",
+      "hostname": "6b8f966c2c52"
+    },
+    "disk_info": {
+      "drive_letter": "",
+      "disk_type": ""
+    },
+    "app_name": "mousepad",
+    "extra": {
+      "raw_operation": "clipboard_text",
+      "category": "clipboard",
+      "source": "linux_x11_clipboard_monitor",
+      "process_association": "foreground_window_at_observation_not_verified_owner",
+      "image_capture_supported": false,
+      "end_time_source": "instant"
+    },
+    "content_preview": "item,revision,quantity\ndisplay,0A99C6,17\n",
+    "content_hash": "855845e71576d100",
+    "end_time": "2026-11-23T03:26:21.727"
+  },
+  {
+    "timestamp": "2026-11-23T03:26:26.245",
+    "event_type": "app_switch",
+    "file_path": "",
+    "file_name": "",
+    "file_size": 0,
+    "file_extension": "",
+    "process_info": {
+      "pid": "180573",
+      "process_name": "chromium",
+      "process_path": "/usr/lib/chromium/chromium",
+      "cmdline": ""
+    },
+    "window_info": {
+      "window_handle": "50331650",
+      "window_title": "Attachment review · S6-2B0DBDF6",
+      "window_class": "127.0.0.1__case_S6-2B0DBDF6 / Chromium"
+    },
+    "user_info": {
+      "username": "agent",
+      "hostname": "6b8f966c2c52"
+    },
+    "disk_info": {
+      "drive_letter": "",
+      "disk_type": ""
+    },
+    "app_name": "Chrome",
+    "extra": {
+      "raw_operation": "app",
+      "category": "浏览器",
+      "source": "window_monitor",
+      "risk_level": "高",
+      "relative_timestamp": 11.531,
+      "end_time_source": "next_window_event"
+    },
+    "end_time": "2026-11-23T03:26:27.747"
+  },
+  {
+    "timestamp": "2026-11-23T03:26:27.747",
+    "event_type": "app_switch",
+    "file_path": "",
+    "file_name": "",
+    "file_size": 0,
+    "file_extension": "",
+    "process_info": {
+      "pid": "180573",
+      "process_name": "chromium",
+      "process_path": "/usr/lib/chromium/chromium",
+      "cmdline": ""
+    },
+    "window_info": {
+      "window_handle": "50331650",
+      "window_title": "Attachment review · S6-2B0DBDF6",
+      "window_class": "127.0.0.1__case_S6-2B0DBDF6 / Chromium"
+    },
+    "user_info": {
+      "username": "agent",
+      "hostname": "6b8f966c2c52"
+    },
+    "disk_info": {
+      "drive_letter": "",
+      "disk_type": ""
+    },
+    "app_name": "Chrome",
+    "extra": {
+      "raw_operation": "app",
+      "category": "浏览器",
+      "source": "window_monitor",
+      "risk_level": "高",
+      "relative_timestamp": 13.033,
+      "end_time_source": "next_window_event"
+    },
+    "end_time": "2026-11-23T03:26:31.765"
+  },
+  {
+    "timestamp": "2026-11-23T03:26:31.765",
+    "event_type": "app_switch",
+    "file_path": "",
+    "file_name": "",
+    "file_size": 0,
+    "file_extension": "",
+    "process_info": {
+      "pid": "180573",
+      "process_name": "chromium",
+      "process_path": "/usr/lib/chromium/chromium",
+      "cmdline": ""
+    },
+    "window_info": {
+      "window_handle": "50331650",
+      "window_title": "Staged Sheet-0A99C6.csv · S6-2B0DBDF6",
+      "window_class": "127.0.0.1__case_S6-2B0DBDF6 / Chromium"
+    },
+    "user_info": {
+      "username": "agent",
+      "hostname": "6b8f966c2c52"
+    },
+    "disk_info": {
+      "drive_letter": "",
+      "disk_type": ""
+    },
+    "app_name": "Chrome",
+    "extra": {
+      "raw_operation": "app",
+      "category": "浏览器",
+      "source": "window_monitor",
+      "risk_level": "高",
+      "relative_timestamp": 17.051,
+      "end_time_source": "next_window_event"
+    },
+    "end_time": "2026-11-23T03:26:34.786"
+  },
+  {
+    "timestamp": "2026-11-23T03:26:34.786",
+    "event_type": "app_switch",
+    "file_path": "",
+    "file_name": "",
+    "file_size": 0,
+    "file_extension": "",
+    "process_info": {
+      "pid": "180573",
+      "process_name": "chromium",
+      "process_path": "/usr/lib/chromium/chromium",
+      "cmdline": ""
+    },
+    "window_info": {
+      "window_handle": "50331650",
+      "window_title": "Attachment removed · S6-2B0DBDF6",
+      "window_class": "127.0.0.1__case_S6-2B0DBDF6 / Chromium"
+    },
+    "user_info": {
+      "username": "agent",
+      "hostname": "6b8f966c2c52"
+    },
+    "disk_info": {
+      "drive_letter": "",
+      "disk_type": ""
+    },
+    "app_name": "Chrome",
+    "extra": {
+      "raw_operation": "app",
+      "category": "浏览器",
+      "source": "window_monitor",
+      "risk_level": "高",
+      "relative_timestamp": 20.072,
+      "end_time_source": "session_stop"
+    },
+    "end_time": "2026-11-23T03:26:48.583"
+  }
+]

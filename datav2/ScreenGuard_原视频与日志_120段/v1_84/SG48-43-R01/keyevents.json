@@ -1,0 +1,182 @@
+[
+  {
+    "timestamp": "2026-11-23T02:34:57.749",
+    "event_type": "opened",
+    "file_path": "/workspace/scratch/6d50e743decc/phase2-lab/workspace/SG48/SG48-43-R01/SG48-DESIGNATED-43.docx",
+    "file_name": "SG48-DESIGNATED-43.docx",
+    "file_size": 36681,
+    "file_extension": ".docx",
+    "process_info": {
+      "pid": "78375",
+      "process_name": "wps",
+      "process_path": "/workspace/scratch/6d50e743decc/collect48/packages/wps/opt/kingsoft/wps-office/office6/wps",
+      "cmdline": ""
+    },
+    "window_info": {
+      "window_handle": "37748751",
+      "window_title": "SG48-DESIGNATED-43.docx - Writer",
+      "window_class": "wps / wps"
+    },
+    "user_info": {
+      "username": "agent",
+      "hostname": "6b8f966c2c52"
+    },
+    "disk_info": {
+      "drive_letter": "",
+      "disk_type": "Fixed"
+    },
+    "app_name": "WPS",
+    "extra": {
+      "raw_operation": "opened",
+      "category": "",
+      "source": "watchdog_fs_monitor",
+      "process_attribution": "foreground_window_heuristic",
+      "end_time_source": "next_file_event"
+    },
+    "end_time": "2026-11-23T02:35:07.705"
+  },
+  {
+    "timestamp": "2026-11-23T02:35:06.941",
+    "event_type": "created",
+    "file_path": "/workspace/scratch/6d50e743decc/phase2-lab/workspace/SG48/SG48-43-R01/SG48-DESIGNATED-43.pdf",
+    "file_name": "SG48-DESIGNATED-43.pdf",
+    "file_size": 30465,
+    "file_extension": ".pdf",
+    "process_info": {
+      "pid": "78375",
+      "process_name": "wps",
+      "process_path": "/workspace/scratch/6d50e743decc/collect48/packages/wps/opt/kingsoft/wps-office/office6/wps",
+      "cmdline": ""
+    },
+    "window_info": {
+      "window_handle": "37749101",
+      "window_title": "Export to PDF File",
+      "window_class": "wps / wps"
+    },
+    "user_info": {
+      "username": "agent",
+      "hostname": "6b8f966c2c52"
+    },
+    "disk_info": {
+      "drive_letter": "",
+      "disk_type": "Fixed"
+    },
+    "app_name": "WPS",
+    "extra": {
+      "raw_operation": "created",
+      "category": "",
+      "source": "watchdog_fs_monitor",
+      "process_attribution": "foreground_window_heuristic",
+      "end_time_source": "instant"
+    },
+    "end_time": "2026-11-23T02:35:06.941"
+  },
+  {
+    "timestamp": "2026-11-23T02:35:06.962",
+    "event_type": "opened",
+    "file_path": "/workspace/scratch/6d50e743decc/phase2-lab/workspace/SG48/SG48-43-R01/SG48-DESIGNATED-43.pdf",
+    "file_name": "SG48-DESIGNATED-43.pdf",
+    "file_size": 30465,
+    "file_extension": ".pdf",
+    "process_info": {
+      "pid": "78375",
+      "process_name": "wps",
+      "process_path": "/workspace/scratch/6d50e743decc/collect48/packages/wps/opt/kingsoft/wps-office/office6/wps",
+      "cmdline": ""
+    },
+    "window_info": {
+      "window_handle": "37749101",
+      "window_title": "Export to PDF File",
+      "window_class": "wps / wps"
+    },
+    "user_info": {
+      "username": "agent",
+      "hostname": "6b8f966c2c52"
+    },
+    "disk_info": {
+      "drive_letter": "",
+      "disk_type": "Fixed"
+    },
+    "app_name": "WPS",
+    "extra": {
+      "raw_operation": "opened",
+      "category": "",
+      "source": "watchdog_fs_monitor",
+      "process_attribution": "foreground_window_heuristic",
+      "end_time_source": "session_stop"
+    },
+    "end_time": "2026-11-23T02:35:26.809"
+  },
+  {
+    "timestamp": "2026-11-23T02:35:06.980",
+    "event_type": "modified",
+    "file_path": "/workspace/scratch/6d50e743decc/phase2-lab/workspace/SG48/SG48-43-R01/SG48-DESIGNATED-43.pdf",
+    "file_name": "SG48-DESIGNATED-43.pdf",
+    "file_size": 30465,
+    "file_extension": ".pdf",
+    "process_info": {
+      "pid": "78375",
+      "process_name": "wps",
+      "process_path": "/workspace/scratch/6d50e743decc/collect48/packages/wps/opt/kingsoft/wps-office/office6/wps",
+      "cmdline": ""
+    },
+    "window_info": {
+      "window_handle": "37749101",
+      "window_title": "Export to PDF File",
+      "window_class": "wps / wps"
+    },
+    "user_info": {
+      "username": "agent",
+      "hostname": "6b8f966c2c52"
+    },
+    "disk_info": {
+      "drive_letter": "",
+      "disk_type": "Fixed"
+    },
+    "app_name": "WPS",
+    "extra": {
+      "raw_operation": "modified",
+      "category": "",
+      "source": "watchdog_fs_monitor",
+      "process_attribution": "foreground_window_heuristic",
+      "end_time_source": "instant"
+    },
+    "end_time": "2026-11-23T02:35:06.980"
+  },
+  {
+    "timestamp": "2026-11-23T02:35:07.705",
+    "event_type": "opened",
+    "file_path": "/workspace/scratch/6d50e743decc/phase2-lab/workspace/SG48/SG48-43-R01/SG48-DESIGNATED-43.docx",
+    "file_name": "SG48-DESIGNATED-43.docx",
+    "file_size": 36681,
+    "file_extension": ".docx",
+    "process_info": {
+      "pid": "78375",
+      "process_name": "wps",
+      "process_path": "/workspace/scratch/6d50e743decc/collect48/packages/wps/opt/kingsoft/wps-office/office6/wps",
+      "cmdline": ""
+    },
+    "window_info": {
+      "window_handle": "37749101",
+      "window_title": "Export to PDF File",
+      "window_class": "wps / wps"
+    },
+    "user_info": {
+      "username": "agent",
+      "hostname": "6b8f966c2c52"
+    },
+    "disk_info": {
+      "drive_letter": "",
+      "disk_type": "Fixed"
+    },
+    "app_name": "WPS",
+    "extra": {
+      "raw_operation": "opened",
+      "category": "",
+      "source": "watchdog_fs_monitor",
+      "process_attribution": "foreground_window_heuristic",
+      "end_time_source": "session_stop"
+    },
+    "end_time": "2026-11-23T02:35:26.809"
+  }
+]

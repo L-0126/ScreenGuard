@@ -1,0 +1,74 @@
+[
+  {
+    "timestamp": "2026-11-23T02:35:43.877",
+    "event_type": "opened",
+    "file_path": "/workspace/scratch/6d50e743decc/phase2-lab/workspace/SG48/SG48-44-R01/SG48-DESIGNATED-44.docx",
+    "file_name": "SG48-DESIGNATED-44.docx",
+    "file_size": 36681,
+    "file_extension": ".docx",
+    "process_info": {
+      "pid": "80368",
+      "process_name": "wps",
+      "process_path": "/workspace/scratch/6d50e743decc/collect48/packages/wps/opt/kingsoft/wps-office/office6/wps",
+      "cmdline": ""
+    },
+    "window_info": {
+      "window_handle": "37748751",
+      "window_title": "SG48-DESIGNATED-44.docx - Writer",
+      "window_class": "wps / wps"
+    },
+    "user_info": {
+      "username": "agent",
+      "hostname": "6b8f966c2c52"
+    },
+    "disk_info": {
+      "drive_letter": "",
+      "disk_type": "Fixed"
+    },
+    "app_name": "WPS",
+    "extra": {
+      "raw_operation": "opened",
+      "category": "",
+      "source": "watchdog_fs_monitor",
+      "process_attribution": "foreground_window_heuristic",
+      "end_time_source": "next_file_event"
+    },
+    "end_time": "2026-11-23T02:35:50.185"
+  },
+  {
+    "timestamp": "2026-11-23T02:35:50.185",
+    "event_type": "opened",
+    "file_path": "/workspace/scratch/6d50e743decc/phase2-lab/workspace/SG48/SG48-44-R01/SG48-DESIGNATED-44.docx",
+    "file_name": "SG48-DESIGNATED-44.docx",
+    "file_size": 36681,
+    "file_extension": ".docx",
+    "process_info": {
+      "pid": "80368",
+      "process_name": "wps",
+      "process_path": "/workspace/scratch/6d50e743decc/collect48/packages/wps/opt/kingsoft/wps-office/office6/wps",
+      "cmdline": ""
+    },
+    "window_info": {
+      "window_handle": "37748751",
+      "window_title": "SG48-DESIGNATED-44.docx - Writer",
+      "window_class": "wps / wps"
+    },
+    "user_info": {
+      "username": "agent",
+      "hostname": "6b8f966c2c52"
+    },
+    "disk_info": {
+      "drive_letter": "",
+      "disk_type": "Fixed"
+    },
+    "app_name": "WPS",
+    "extra": {
+      "raw_operation": "opened",
+      "category": "",
+      "source": "watchdog_fs_monitor",
+      "process_attribution": "foreground_window_heuristic",
+      "end_time_source": "session_stop"
+    },
+    "end_time": "2026-11-23T02:36:13.109"
+  }
+]

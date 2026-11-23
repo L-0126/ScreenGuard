@@ -1,0 +1,654 @@
+[
+  {
+    "timestamp": "2026-11-23T02:20:45.250",
+    "event_type": "created",
+    "file_path": "/workspace/scratch/6d50e743decc/phase2-lab/workspace/SG48/SG48-46-R01/.obsidian/core-plugins.json",
+    "file_name": "core-plugins.json",
+    "file_size": 666,
+    "file_extension": ".json",
+    "process_info": {
+      "pid": "61955",
+      "process_name": "obsidian",
+      "process_path": "/workspace/scratch/6d50e743decc/collect48/packages/obsidian/opt/Obsidian/obsidian",
+      "cmdline": ""
+    },
+    "window_info": {
+      "window_handle": "37748739",
+      "window_title": "SG48-PUBLIC-46 - SG48-46-R01 - Obsidian 1.15.1",
+      "window_class": "md.obsidian.obsidian / md.obsidian.Obsidian"
+    },
+    "user_info": {
+      "username": "agent",
+      "hostname": "6b8f966c2c52"
+    },
+    "disk_info": {
+      "drive_letter": "",
+      "disk_type": "Fixed"
+    },
+    "app_name": "obsidian",
+    "extra": {
+      "raw_operation": "created",
+      "category": "",
+      "source": "watchdog_fs_monitor",
+      "process_attribution": "foreground_window_heuristic"
+    }
+  },
+  {
+    "timestamp": "2026-11-23T02:20:45.271",
+    "event_type": "opened",
+    "file_path": "/workspace/scratch/6d50e743decc/phase2-lab/workspace/SG48/SG48-46-R01/.obsidian/core-plugins.json",
+    "file_name": "core-plugins.json",
+    "file_size": 666,
+    "file_extension": ".json",
+    "process_info": {
+      "pid": "61955",
+      "process_name": "obsidian",
+      "process_path": "/workspace/scratch/6d50e743decc/collect48/packages/obsidian/opt/Obsidian/obsidian",
+      "cmdline": ""
+    },
+    "window_info": {
+      "window_handle": "37748739",
+      "window_title": "SG48-PUBLIC-46 - SG48-46-R01 - Obsidian 1.15.1",
+      "window_class": "md.obsidian.obsidian / md.obsidian.Obsidian"
+    },
+    "user_info": {
+      "username": "agent",
+      "hostname": "6b8f966c2c52"
+    },
+    "disk_info": {
+      "drive_letter": "",
+      "disk_type": "Fixed"
+    },
+    "app_name": "obsidian",
+    "extra": {
+      "raw_operation": "opened",
+      "category": "",
+      "source": "watchdog_fs_monitor",
+      "process_attribution": "foreground_window_heuristic"
+    }
+  },
+  {
+    "timestamp": "2026-11-23T02:20:45.563",
+    "event_type": "app_switch",
+    "file_path": "",
+    "file_name": "",
+    "file_size": 0,
+    "file_extension": "",
+    "process_info": {
+      "pid": "61955",
+      "process_name": "obsidian",
+      "process_path": "/workspace/scratch/6d50e743decc/collect48/packages/obsidian/opt/Obsidian/obsidian",
+      "cmdline": ""
+    },
+    "window_info": {
+      "window_handle": "37748739",
+      "window_title": "SG48-PUBLIC-46 - SG48-46-R01 - Obsidian 1.15.1",
+      "window_class": "md.obsidian.obsidian / md.obsidian.Obsidian"
+    },
+    "user_info": {
+      "username": "agent",
+      "hostname": "6b8f966c2c52"
+    },
+    "disk_info": {
+      "drive_letter": "",
+      "disk_type": ""
+    },
+    "app_name": "obsidian",
+    "extra": {
+      "raw_operation": "none",
+      "category": "",
+      "source": "window_monitor",
+      "risk_level": "",
+      "relative_timestamp": 0.505
+    }
+  },
+  {
+    "timestamp": "2026-11-23T02:20:45.738",
+    "event_type": "opened",
+    "file_path": "/workspace/scratch/6d50e743decc/phase2-lab/workspace/SG48/SG48-46-R01/.obsidian/app.json",
+    "file_name": "app.json",
+    "file_size": 0,
+    "file_extension": ".json",
+    "process_info": {
+      "pid": "61955",
+      "process_name": "obsidian",
+      "process_path": "/workspace/scratch/6d50e743decc/collect48/packages/obsidian/opt/Obsidian/obsidian",
+      "cmdline": ""
+    },
+    "window_info": {
+      "window_handle": "37748739",
+      "window_title": "SG48-PUBLIC-46 - SG48-46-R01 - Obsidian 1.15.1",
+      "window_class": "md.obsidian.obsidian / md.obsidian.Obsidian"
+    },
+    "user_info": {
+      "username": "agent",
+      "hostname": "6b8f966c2c52"
+    },
+    "disk_info": {
+      "drive_letter": "",
+      "disk_type": "Fixed"
+    },
+    "app_name": "obsidian",
+    "extra": {
+      "raw_operation": "opened",
+      "category": "",
+      "source": "watchdog_fs_monitor",
+      "process_attribution": "foreground_window_heuristic"
+    }
+  },
+  {
+    "timestamp": "2026-11-23T02:20:45.778",
+    "event_type": "created",
+    "file_path": "/workspace/scratch/6d50e743decc/phase2-lab/workspace/SG48/SG48-46-R01/.obsidian/appearance.json",
+    "file_name": "appearance.json",
+    "file_size": 24,
+    "file_extension": ".json",
+    "process_info": {
+      "pid": "62114",
+      "process_name": "python3",
+      "process_path": "/usr/bin/python3.13",
+      "cmdline": ""
+    },
+    "window_info": {
+      "window_handle": "58720259",
+      "window_title": "SG READY 6A64B0EAF279",
+      "window_class": "marker.py / Marker.py"
+    },
+    "user_info": {
+      "username": "agent",
+      "hostname": "6b8f966c2c52"
+    },
+    "disk_info": {
+      "drive_letter": "",
+      "disk_type": "Fixed"
+    },
+    "app_name": "python3",
+    "extra": {
+      "raw_operation": "created",
+      "category": "",
+      "source": "watchdog_fs_monitor",
+      "process_attribution": "foreground_window_heuristic"
+    }
+  },
+  {
+    "timestamp": "2026-11-23T02:20:45.795",
+    "event_type": "opened",
+    "file_path": "/workspace/scratch/6d50e743decc/phase2-lab/workspace/SG48/SG48-46-R01/.obsidian/appearance.json",
+    "file_name": "appearance.json",
+    "file_size": 24,
+    "file_extension": ".json",
+    "process_info": {
+      "pid": "62114",
+      "process_name": "python3",
+      "process_path": "/usr/bin/python3.13",
+      "cmdline": ""
+    },
+    "window_info": {
+      "window_handle": "58720259",
+      "window_title": "SG READY 6A64B0EAF279",
+      "window_class": "marker.py / Marker.py"
+    },
+    "user_info": {
+      "username": "agent",
+      "hostname": "6b8f966c2c52"
+    },
+    "disk_info": {
+      "drive_letter": "",
+      "disk_type": "Fixed"
+    },
+    "app_name": "python3",
+    "extra": {
+      "raw_operation": "opened",
+      "category": "",
+      "source": "watchdog_fs_monitor",
+      "process_attribution": "foreground_window_heuristic"
+    }
+  },
+  {
+    "timestamp": "2026-11-23T02:20:45.821",
+    "event_type": "opened",
+    "file_path": "/workspace/scratch/6d50e743decc/phase2-lab/workspace/SG48/SG48-46-R01/.obsidian/workspace.json",
+    "file_name": "workspace.json",
+    "file_size": 5140,
+    "file_extension": ".json",
+    "process_info": {
+      "pid": "62114",
+      "process_name": "python3",
+      "process_path": "/usr/bin/python3.13",
+      "cmdline": ""
+    },
+    "window_info": {
+      "window_handle": "58720259",
+      "window_title": "SG READY 6A64B0EAF279",
+      "window_class": "marker.py / Marker.py"
+    },
+    "user_info": {
+      "username": "agent",
+      "hostname": "6b8f966c2c52"
+    },
+    "disk_info": {
+      "drive_letter": "",
+      "disk_type": "Fixed"
+    },
+    "app_name": "python3",
+    "extra": {
+      "raw_operation": "opened",
+      "category": "",
+      "source": "watchdog_fs_monitor",
+      "process_attribution": "foreground_window_heuristic"
+    }
+  },
+  {
+    "timestamp": "2026-11-23T02:20:46.064",
+    "event_type": "app_switch",
+    "file_path": "",
+    "file_name": "",
+    "file_size": 0,
+    "file_extension": "",
+    "process_info": {
+      "pid": "62114",
+      "process_name": "python3",
+      "process_path": "/usr/bin/python3.13",
+      "cmdline": ""
+    },
+    "window_info": {
+      "window_handle": "58720259",
+      "window_title": "SG READY 6A64B0EAF279",
+      "window_class": "marker.py / Marker.py"
+    },
+    "user_info": {
+      "username": "agent",
+      "hostname": "6b8f966c2c52"
+    },
+    "disk_info": {
+      "drive_letter": "",
+      "disk_type": ""
+    },
+    "app_name": "python3",
+    "extra": {
+      "raw_operation": "none",
+      "category": "",
+      "source": "window_monitor",
+      "risk_level": "",
+      "relative_timestamp": 1.007
+    }
+  },
+  {
+    "timestamp": "2026-11-23T02:20:45.292",
+    "event_type": "modified",
+    "file_path": "/workspace/scratch/6d50e743decc/phase2-lab/workspace/SG48/SG48-46-R01/.obsidian/core-plugins.json",
+    "file_name": "core-plugins.json",
+    "file_size": 666,
+    "file_extension": ".json",
+    "process_info": {
+      "pid": "61955",
+      "process_name": "obsidian",
+      "process_path": "/workspace/scratch/6d50e743decc/collect48/packages/obsidian/opt/Obsidian/obsidian",
+      "cmdline": ""
+    },
+    "window_info": {
+      "window_handle": "37748739",
+      "window_title": "SG48-PUBLIC-46 - SG48-46-R01 - Obsidian 1.15.1",
+      "window_class": "md.obsidian.obsidian / md.obsidian.Obsidian"
+    },
+    "user_info": {
+      "username": "agent",
+      "hostname": "6b8f966c2c52"
+    },
+    "disk_info": {
+      "drive_letter": "",
+      "disk_type": "Fixed"
+    },
+    "app_name": "obsidian",
+    "extra": {
+      "raw_operation": "modified",
+      "category": "",
+      "source": "watchdog_fs_monitor",
+      "process_attribution": "foreground_window_heuristic"
+    }
+  },
+  {
+    "timestamp": "2026-11-23T02:20:45.766",
+    "event_type": "modified",
+    "file_path": "/workspace/scratch/6d50e743decc/phase2-lab/workspace/SG48/SG48-46-R01/.obsidian/app.json",
+    "file_name": "app.json",
+    "file_size": 84,
+    "file_extension": ".json",
+    "process_info": {
+      "pid": "62114",
+      "process_name": "python3",
+      "process_path": "/usr/bin/python3.13",
+      "cmdline": ""
+    },
+    "window_info": {
+      "window_handle": "58720259",
+      "window_title": "SG READY 6A64B0EAF279",
+      "window_class": "marker.py / Marker.py"
+    },
+    "user_info": {
+      "username": "agent",
+      "hostname": "6b8f966c2c52"
+    },
+    "disk_info": {
+      "drive_letter": "",
+      "disk_type": "Fixed"
+    },
+    "app_name": "python3",
+    "extra": {
+      "raw_operation": "modified",
+      "category": "",
+      "source": "watchdog_fs_monitor",
+      "process_attribution": "foreground_window_heuristic"
+    }
+  },
+  {
+    "timestamp": "2026-11-23T02:20:45.813",
+    "event_type": "modified",
+    "file_path": "/workspace/scratch/6d50e743decc/phase2-lab/workspace/SG48/SG48-46-R01/.obsidian/appearance.json",
+    "file_name": "appearance.json",
+    "file_size": 24,
+    "file_extension": ".json",
+    "process_info": {
+      "pid": "62114",
+      "process_name": "python3",
+      "process_path": "/usr/bin/python3.13",
+      "cmdline": ""
+    },
+    "window_info": {
+      "window_handle": "58720259",
+      "window_title": "SG READY 6A64B0EAF279",
+      "window_class": "marker.py / Marker.py"
+    },
+    "user_info": {
+      "username": "agent",
+      "hostname": "6b8f966c2c52"
+    },
+    "disk_info": {
+      "drive_letter": "",
+      "disk_type": "Fixed"
+    },
+    "app_name": "python3",
+    "extra": {
+      "raw_operation": "modified",
+      "category": "",
+      "source": "watchdog_fs_monitor",
+      "process_attribution": "foreground_window_heuristic"
+    }
+  },
+  {
+    "timestamp": "2026-11-23T02:20:45.840",
+    "event_type": "modified",
+    "file_path": "/workspace/scratch/6d50e743decc/phase2-lab/workspace/SG48/SG48-46-R01/.obsidian/workspace.json",
+    "file_name": "workspace.json",
+    "file_size": 5140,
+    "file_extension": ".json",
+    "process_info": {
+      "pid": "62114",
+      "process_name": "python3",
+      "process_path": "/usr/bin/python3.13",
+      "cmdline": ""
+    },
+    "window_info": {
+      "window_handle": "58720259",
+      "window_title": "SG READY 6A64B0EAF279",
+      "window_class": "marker.py / Marker.py"
+    },
+    "user_info": {
+      "username": "agent",
+      "hostname": "6b8f966c2c52"
+    },
+    "disk_info": {
+      "drive_letter": "",
+      "disk_type": "Fixed"
+    },
+    "app_name": "python3",
+    "extra": {
+      "raw_operation": "modified",
+      "category": "",
+      "source": "watchdog_fs_monitor",
+      "process_attribution": "foreground_window_heuristic"
+    }
+  },
+  {
+    "timestamp": "2026-11-23T02:20:48.092",
+    "event_type": "app_switch",
+    "file_path": "",
+    "file_name": "",
+    "file_size": 0,
+    "file_extension": "",
+    "process_info": {
+      "pid": "62114",
+      "process_name": "python3",
+      "process_path": "/usr/bin/python3.13",
+      "cmdline": ""
+    },
+    "window_info": {
+      "window_handle": "58720259",
+      "window_title": "SG START 6A64B0EAF279",
+      "window_class": "marker.py / Marker.py"
+    },
+    "user_info": {
+      "username": "agent",
+      "hostname": "6b8f966c2c52"
+    },
+    "disk_info": {
+      "drive_letter": "",
+      "disk_type": ""
+    },
+    "app_name": "python3",
+    "extra": {
+      "raw_operation": "none",
+      "category": "",
+      "source": "window_monitor",
+      "risk_level": "",
+      "relative_timestamp": 3.034
+    }
+  },
+  {
+    "timestamp": "2026-11-23T02:20:50.596",
+    "event_type": "app_switch",
+    "file_path": "",
+    "file_name": "",
+    "file_size": 0,
+    "file_extension": "",
+    "process_info": {
+      "pid": "61955",
+      "process_name": "obsidian",
+      "process_path": "/workspace/scratch/6d50e743decc/collect48/packages/obsidian/opt/Obsidian/obsidian",
+      "cmdline": ""
+    },
+    "window_info": {
+      "window_handle": "37748739",
+      "window_title": "SG48-PUBLIC-46 - SG48-46-R01 - Obsidian 1.15.1",
+      "window_class": "md.obsidian.obsidian / md.obsidian.Obsidian"
+    },
+    "user_info": {
+      "username": "agent",
+      "hostname": "6b8f966c2c52"
+    },
+    "disk_info": {
+      "drive_letter": "",
+      "disk_type": ""
+    },
+    "app_name": "obsidian",
+    "extra": {
+      "raw_operation": "none",
+      "category": "",
+      "source": "window_monitor",
+      "risk_level": "",
+      "relative_timestamp": 5.538
+    }
+  },
+  {
+    "timestamp": "2026-11-23T02:20:51.865",
+    "event_type": "opened",
+    "file_path": "/workspace/scratch/6d50e743decc/phase2-lab/workspace/SG48/SG48-46-R01/SG48-PUBLIC-46.md",
+    "file_name": "SG48-PUBLIC-46.md",
+    "file_size": 82,
+    "file_extension": ".md",
+    "process_info": {
+      "pid": "61955",
+      "process_name": "obsidian",
+      "process_path": "/workspace/scratch/6d50e743decc/collect48/packages/obsidian/opt/Obsidian/obsidian",
+      "cmdline": ""
+    },
+    "window_info": {
+      "window_handle": "37748739",
+      "window_title": "SG48-PUBLIC-46 - SG48-46-R01 - Obsidian 1.15.1",
+      "window_class": "md.obsidian.obsidian / md.obsidian.Obsidian"
+    },
+    "user_info": {
+      "username": "agent",
+      "hostname": "6b8f966c2c52"
+    },
+    "disk_info": {
+      "drive_letter": "",
+      "disk_type": "Fixed"
+    },
+    "app_name": "obsidian",
+    "extra": {
+      "raw_operation": "opened",
+      "category": "",
+      "source": "watchdog_fs_monitor",
+      "process_attribution": "foreground_window_heuristic"
+    }
+  },
+  {
+    "timestamp": "2026-11-23T02:20:54.063",
+    "event_type": "modified",
+    "file_path": "/workspace/scratch/6d50e743decc/phase2-lab/workspace/SG48/SG48-46-R01/SG48-PUBLIC-46.md",
+    "file_name": "SG48-PUBLIC-46.md",
+    "file_size": 83,
+    "file_extension": ".md",
+    "process_info": {
+      "pid": "61955",
+      "process_name": "obsidian",
+      "process_path": "/workspace/scratch/6d50e743decc/collect48/packages/obsidian/opt/Obsidian/obsidian",
+      "cmdline": ""
+    },
+    "window_info": {
+      "window_handle": "37748739",
+      "window_title": "SG48-PUBLIC-46 - SG48-46-R01 - Obsidian 1.15.1",
+      "window_class": "md.obsidian.obsidian / md.obsidian.Obsidian"
+    },
+    "user_info": {
+      "username": "agent",
+      "hostname": "6b8f966c2c52"
+    },
+    "disk_info": {
+      "drive_letter": "",
+      "disk_type": "Fixed"
+    },
+    "app_name": "obsidian",
+    "extra": {
+      "raw_operation": "modified",
+      "category": "",
+      "source": "watchdog_fs_monitor",
+      "process_attribution": "foreground_window_heuristic"
+    }
+  },
+  {
+    "timestamp": "2026-11-23T02:20:55.622",
+    "event_type": "modified",
+    "file_path": "/workspace/scratch/6d50e743decc/phase2-lab/workspace/SG48/SG48-46-R01/SG48-PUBLIC-46.md",
+    "file_name": "SG48-PUBLIC-46.md",
+    "file_size": 82,
+    "file_extension": ".md",
+    "process_info": {
+      "pid": "61955",
+      "process_name": "obsidian",
+      "process_path": "/workspace/scratch/6d50e743decc/collect48/packages/obsidian/opt/Obsidian/obsidian",
+      "cmdline": ""
+    },
+    "window_info": {
+      "window_handle": "37748739",
+      "window_title": "SG48-PUBLIC-46 - SG48-46-R01 - Obsidian 1.15.1",
+      "window_class": "md.obsidian.obsidian / md.obsidian.Obsidian"
+    },
+    "user_info": {
+      "username": "agent",
+      "hostname": "6b8f966c2c52"
+    },
+    "disk_info": {
+      "drive_letter": "",
+      "disk_type": "Fixed"
+    },
+    "app_name": "obsidian",
+    "extra": {
+      "raw_operation": "modified",
+      "category": "",
+      "source": "watchdog_fs_monitor",
+      "process_attribution": "foreground_window_heuristic"
+    }
+  },
+  {
+    "timestamp": "2026-11-23T02:21:17.157",
+    "event_type": "app_switch",
+    "file_path": "",
+    "file_name": "",
+    "file_size": 0,
+    "file_extension": "",
+    "process_info": {
+      "pid": "62114",
+      "process_name": "python3",
+      "process_path": "/usr/bin/python3.13",
+      "cmdline": ""
+    },
+    "window_info": {
+      "window_handle": "58720259",
+      "window_title": "SG START 6A64B0EAF279",
+      "window_class": "marker.py / Marker.py"
+    },
+    "user_info": {
+      "username": "agent",
+      "hostname": "6b8f966c2c52"
+    },
+    "disk_info": {
+      "drive_letter": "",
+      "disk_type": ""
+    },
+    "app_name": "python3",
+    "extra": {
+      "raw_operation": "none",
+      "category": "",
+      "source": "window_monitor",
+      "risk_level": "",
+      "relative_timestamp": 32.1
+    }
+  },
+  {
+    "timestamp": "2026-11-23T02:21:18.660",
+    "event_type": "app_switch",
+    "file_path": "",
+    "file_name": "",
+    "file_size": 0,
+    "file_extension": "",
+    "process_info": {
+      "pid": "62114",
+      "process_name": "python3",
+      "process_path": "/usr/bin/python3.13",
+      "cmdline": ""
+    },
+    "window_info": {
+      "window_handle": "58720259",
+      "window_title": "SG END 6A64B0EAF279",
+      "window_class": "marker.py / Marker.py"
+    },
+    "user_info": {
+      "username": "agent",
+      "hostname": "6b8f966c2c52"
+    },
+    "disk_info": {
+      "drive_letter": "",
+      "disk_type": ""
+    },
+    "app_name": "python3",
+    "extra": {
+      "raw_operation": "none",
+      "category": "",
+      "source": "window_monitor",
+      "risk_level": "",
+      "relative_timestamp": 33.603
+    }
+  }
+]

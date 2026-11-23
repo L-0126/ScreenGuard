@@ -1,0 +1,51 @@
+{
+  "session_id": "SG48-11-R01",
+  "sources": {
+    "controller": "UTC Unix ns and CLOCK_MONOTONIC ns",
+    "native_events": "Asia/Shanghai",
+    "video": "decoded PTS seconds; input_start_unix_seconds",
+    "cua": "native UTC and relative ms"
+  },
+  "input_start_unix_seconds": 1795369811.851481,
+  "poll_ms": 500,
+  "anchors": {
+    "START": {
+      "title": "SG START 43F28228F006",
+      "turn": "turn-00002",
+      "native_log_index_0based": 3,
+      "same_title_indices": [
+        3,
+        10
+      ],
+      "cua_action_timestamp": "2026-11-22T17:50:15.668Z",
+      "cua_after_rgb_confirmed": true,
+      "controller_sent_unix_ns": 1795369813895821232,
+      "controller_returned_unix_ns": 1795369815671043093,
+      "previous_frame": 20,
+      "first_changed_frame": 21,
+      "previous_pts_s": 2.5,
+      "first_changed_pts_s": 2.625,
+      "native_timestamp": "2026-11-23T01:50:14.668",
+      "native_event_minus_first_visible_ms": 191.519
+    },
+    "END": {
+      "title": "SG END 43F28228F006",
+      "turn": "turn-00011",
+      "native_log_index_0based": 11,
+      "same_title_indices": [
+        11
+      ],
+      "cua_action_timestamp": "2026-11-22T17:50:46.066Z",
+      "cua_after_rgb_confirmed": true,
+      "controller_sent_unix_ns": 1795369844298902547,
+      "controller_returned_unix_ns": 1795369846070843729,
+      "previous_frame": 263,
+      "first_changed_frame": 264,
+      "previous_pts_s": 32.875,
+      "first_changed_pts_s": 33.0,
+      "native_timestamp": "2026-11-23T01:50:45.225",
+      "native_event_minus_first_visible_ms": 373.519
+    }
+  },
+  "scope": "Start/end visible transitions only; no fitted offset or per-action alignment."
+}
